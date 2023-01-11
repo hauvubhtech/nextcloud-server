@@ -114,7 +114,8 @@ abstract class AUserData extends OCSController {
 		}
 
 		// Should be at least Admin Or SubAdmin!
-		if ($this->groupManager->isAdmin($currentLoggedInUser->getUID())
+		$isAdmin = $this->groupManager->isAdmin($currentLoggedInUser->getUID());
+		if ($isAdmin
 			|| $this->groupManager->getSubAdmin()->isUserAccessible($currentLoggedInUser, $targetUserObject)) {
 			$data['enabled'] = $this->config->getUserValue($targetUserObject->getUID(), 'core', 'enabled', 'true') === 'true';
 		} else {
@@ -132,13 +133,15 @@ abstract class AUserData extends OCSController {
 			$gids[] = $group->getGID();
 		}
 
-		try {
-			# might be thrown by LDAP due to handling of users disappears
-			# from the external source (reasons unknown to us)
-			# cf. https://github.com/nextcloud/server/issues/12991
-			$data['storageLocation'] = $targetUserObject->getHome();
-		} catch (NoUserException $e) {
-			throw new OCSNotFoundException($e->getMessage(), $e);
+		if ($isAdmin) {
+			try {
+				# might be thrown by LDAP due to handling of users disappears
+				# from the external source (reasons unknown to us)
+				# cf. https://github.com/nextcloud/server/issues/12991
+				$data['storageLocation'] = $targetUserObject->getHome();
+			} catch (NoUserException $e) {
+				throw new OCSNotFoundException($e->getMessage(), $e);
+			}
 		}
 
 		// Find the data
