@@ -114,6 +114,9 @@ abstract class AUserData extends OCSController {
 		}
 
 		// Should be at least Admin Or SubAdmin!
+		if ($currentLoggedInUser === null) {
+				throw new OCSException('No user logged in');
+		}
 		$isAdmin = $this->groupManager->isAdmin($currentLoggedInUser->getUID());
 		if ($isAdmin
 			|| $this->groupManager->getSubAdmin()->isUserAccessible($currentLoggedInUser, $targetUserObject)) {
