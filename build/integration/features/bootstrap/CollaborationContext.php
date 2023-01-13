@@ -99,7 +99,7 @@ class CollaborationContext implements Context {
 			$data = <<<EOF
 BEGIN:VCARD
 VERSION:4.0
-PRODID:-//Nextcloud Contacts v4.0.2
+PRODID:-//xD Drive Contacts v4.0.2
 UID:a0f4088a-4dca-4308-9b63-09a1ebcf78f3
 FN:A person
 ADR;TYPE=HOME:;;;;;;

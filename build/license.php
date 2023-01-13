@@ -123,7 +123,7 @@ EOD;
 
 	public function writeAuthorsFile() {
 		ksort($this->authors);
-		$template = "Nextcloud is written by:
+		$template = "xD Drive is written by:
 @AUTHORS@
 
 With help from many libraries and frameworks including:
@@ -324,7 +324,7 @@ With help from many libraries and frameworks including:
 	private function printFilesToCheck() {
 		if (!empty($this->checkFiles)) {
 			print "\n";
-			print "For following files all lines changed since the Nextcloud fork." . PHP_EOL;
+			print "For following files all lines changed since the xD Drive fork." . PHP_EOL;
 			print "Please check if these files can be moved over to AGPLv3 or later" . PHP_EOL;
 			print "\n";
 			foreach ($this->checkFiles as $file) {

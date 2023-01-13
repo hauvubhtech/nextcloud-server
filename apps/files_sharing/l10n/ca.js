@@ -262,7 +262,7 @@ OC.L10N.register(
     "Uploading files" : "Càrregant fitxers",
     "Uploaded files:" : "Fitxers carregats:",
     "By uploading files, you agree to the %1$sterms of service%2$s." : "Si carregueu els fitxers accepteu les %1$scondicions del servei%2$s.",
-    "Add to your Nextcloud" : "Afegiu al vostre NextCloud",
+    "Add to your Nextcloud" : "Afegiu al vostre xD Drive",
     "Wrong share ID, share doesn't exist" : "L'identificador de la compartició és incorrecte, la compartició no existeix",
     "Wrong path, file/folder doesn't exist" : "El camí és erroni, el fitxer o la carpeta no existeixen",
     "Cannot change permissions for public share links" : "No es poden canviar els permisos dels enllaços de compartició pública",

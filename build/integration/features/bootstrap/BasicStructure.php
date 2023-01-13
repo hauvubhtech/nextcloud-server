@@ -486,7 +486,7 @@ trait BasicStructure {
 	 */
 	public static function addFilesToSkeleton() {
 		for ($i = 0; $i < 5; $i++) {
-			file_put_contents("../../core/skeleton/" . "textfile" . "$i" . ".txt", "Nextcloud test text file\n");
+			file_put_contents("../../core/skeleton/" . "textfile" . "$i" . ".txt", "xD Drive test text file\n");
 		}
 		if (!file_exists("../../core/skeleton/FOLDER")) {
 			mkdir("../../core/skeleton/FOLDER", 0777, true);
@@ -494,11 +494,11 @@ trait BasicStructure {
 		if (!file_exists("../../core/skeleton/PARENT")) {
 			mkdir("../../core/skeleton/PARENT", 0777, true);
 		}
-		file_put_contents("../../core/skeleton/PARENT/" . "parent.txt", "Nextcloud test text file\n");
+		file_put_contents("../../core/skeleton/PARENT/" . "parent.txt", "xD Drive test text file\n");
 		if (!file_exists("../../core/skeleton/PARENT/CHILD")) {
 			mkdir("../../core/skeleton/PARENT/CHILD", 0777, true);
 		}
-		file_put_contents("../../core/skeleton/PARENT/CHILD/" . "child.txt", "Nextcloud test text file\n");
+		file_put_contents("../../core/skeleton/PARENT/CHILD/" . "child.txt", "xD Drive test text file\n");
 	}
 
 	/**
