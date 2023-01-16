@@ -65,7 +65,7 @@ export default {
 			}, ''))
 		},
 		downloadFilename() {
-			const name = OC.theme.name || 'Nextcloud'
+			const name = OC.theme.name || 'xD Drive'
 			return name + '-backup-codes.txt'
 		},
 		enabled() {
@@ -81,7 +81,7 @@ export default {
 			return this.$store.state.codes
 		},
 		name() {
-			return OC.theme.name || 'Nextcloud'
+			return OC.theme.name || 'xD Drive'
 		},
 		haveCodes() {
 			return this.codes && this.codes.length > 0

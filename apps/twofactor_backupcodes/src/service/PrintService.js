@@ -25,7 +25,7 @@
  * @param {any} data -
  */
 export function print(data) {
-	const name = OC.theme.name || 'Nextcloud'
+	const name = OC.theme.name || 'xD Drive'
 	const newTab = window.open('', t('twofactor_backupcodes', '{name} backup codes', { name }))
 	newTab.document.write('<h1>' + t('twofactor_backupcodes', '{name} backup codes', { name }) + '</h1>')
 	newTab.document.write('<pre>' + data + '</pre>')
