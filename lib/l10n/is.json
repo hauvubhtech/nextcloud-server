@@ -178,7 +178,7 @@
     "PHP module %s not installed." : "PHP-einingin %s er ekki uppsett.",
     "Please ask your server administrator to install the module." : "Biddu kerfisstjórann þinn um að setja eininguna upp.",
     "PHP setting \"%s\" is not set to \"%s\"." : "PHP-stillingin \"%s\" er ekki sett á \"%s\".",
-    "Adjusting this setting in php.ini will make Nextcloud run again" : "Ef þessi stilling er löguð í php.ini mun Nextcloud keyra aftur",
+    "Adjusting this setting in php.ini will make xD Drive run again" : "Ef þessi stilling er löguð í php.ini mun xD Drive keyra aftur",
     "libxml2 2.7.0 is at least required. Currently %s is installed." : "Krafist er libxml2 2.7.0 hið minnsta. Núna er %s uppsett.",
     "To fix this issue update your libxml2 version and restart your web server." : "Til að laga þetta vandamál ættirðu að uppfæra útgáfu þína af libxml2 og endurræsa vefþjóninn.",
     "PHP is apparently set up to strip inline doc blocks. This will make several core apps inaccessible." : "PHP virðist vera sett upp to fjarlægja innantextablokkir (inline doc blocks). Þetta mun gera ýmis kjarnaforrit óaðgengileg.",

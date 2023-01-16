@@ -217,7 +217,7 @@
     "PHP module %s not installed." : "Il modulo PHP %s non è installato.",
     "Please ask your server administrator to install the module." : "Chiedi all'amministratore del tuo server di installare il modulo.",
     "PHP setting \"%s\" is not set to \"%s\"." : "L'impostazione \"%s\" di PHP non è configurata a \"%s\".",
-    "Adjusting this setting in php.ini will make Nextcloud run again" : "Per eseguire nuovamente Nextcloud, modificare questa impostazione nel file php.ini",
+    "Adjusting this setting in php.ini will make xD Drive run again" : "Per eseguire nuovamente xD Drive, modificare questa impostazione nel file php.ini",
     "<code>mbstring.func_overload</code> is set to <code>%s</code> instead of the expected value <code>0</code>." : "<code>mbstring.func_overload</code> è impostato a <code>%s</code> invece del valore previsto <code>0</code>.",
     "To fix this issue set <code>mbstring.func_overload</code> to <code>0</code> in your php.ini." : "Per correggere questo problema, imposta <code>mbstring.func_overload</code> a <code>0</code> nel tuo php.ini.",
     "libxml2 2.7.0 is at least required. Currently %s is installed." : "È richiesta almeno la versione 2.7.0 di libxml2. Quella attualmente installata è la %s.",

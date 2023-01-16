@@ -161,7 +161,7 @@
     "PHP module %s not installed." : "מודול PHP %s אינו מותקן.",
     "Please ask your server administrator to install the module." : "יש לבקש ממנהל השרת שלך להתקין את המודול.",
     "PHP setting \"%s\" is not set to \"%s\"." : "הגדרות PHP \"%s\" אינם מוגדרות ל- \"%s\"",
-    "Adjusting this setting in php.ini will make Nextcloud run again" : "התאמת ההגדרה הזו ב־php.ini יאפשר ל־Nextcloud לפעול שוב",
+    "Adjusting this setting in php.ini will make xD Drive run again" : "התאמת ההגדרה הזו ב־php.ini יאפשר ל־Nextcloud לפעול שוב",
     "libxml2 2.7.0 is at least required. Currently %s is installed." : "libxml2 2.7.0 נדרש לכל הפחות. כרגע %s מותקן.",
     "To fix this issue update your libxml2 version and restart your web server." : "לתיקון הבעיה יש לעדכן את גרסת ה- libxml2 שלך ולהפעיל מחדש את שרת האינטרנט שלך.",
     "PHP is apparently set up to strip inline doc blocks. This will make several core apps inaccessible." : "PHP ככל הנראה מוגדר ל- strip inline doc blocks. זה יגרום למספר יישומי ליבה לא להיות נגישים.",

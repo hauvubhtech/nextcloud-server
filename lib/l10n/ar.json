@@ -120,7 +120,7 @@
     "Application is not enabled" : "التطبيق غير مفعّل",
     "Authentication error" : "لم يتم التأكد من الشخصية بنجاح",
     "Token expired. Please reload page." : "انتهت صلاحية الكلمة , يرجى اعادة تحميل الصفحة",
-    "Adjusting this setting in php.ini will make Nextcloud run again" : "تضبيط الإعدادات في ملف php.ini سوف يُمكّن نيكست كلاود من العمل مجدداً",
+    "Adjusting this setting in php.ini will make xD Drive run again" : "تضبيط الإعدادات في ملف php.ini سوف يُمكّن نيكست كلاود من العمل مجدداً",
     "Storage is temporarily not available" : "وحدة التخزين غير متوفرة",
     "%s enter the database username and name." : "%s أدخِل اسم قاعدة البيانات واسم مستخدمها.",
     "%s enter the database username." : "%s ادخل اسم المستخدم الخاص بقاعدة البيانات.",

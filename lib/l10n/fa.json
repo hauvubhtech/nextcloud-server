@@ -198,7 +198,7 @@
     "PHP module %s not installed." : "ماژول PHP %s نصب نشده است.",
     "Please ask your server administrator to install the module." : "لطفا از مدیر سیستم بخواهید تا ماژول را نصب کند.",
     "PHP setting \"%s\" is not set to \"%s\"." : "تنظیمات PHP%s تنظیم نشده است%s",
-    "Adjusting this setting in php.ini will make Nextcloud run again" : "تنظیم این تنظیمات در php.ini باعث می شود Nextcloud دوباره اجرا شود",
+    "Adjusting this setting in php.ini will make xD Drive run again" : "تنظیم این تنظیمات در php.ini باعث می شود xD Drive دوباره اجرا شود",
     "libxml2 2.7.0 is at least required. Currently %s is installed." : "libxml2 2.7.0 حداقل مورد نیاز است. در حال حاضر %sنصب شده است",
     "To fix this issue update your libxml2 version and restart your web server." : "برای رفع این مشکل نسخه libxml2 خود را به روز کنید و سرور وب خود را مجدداً راه اندازی کنید.",
     "PHP is apparently set up to strip inline doc blocks. This will make several core apps inaccessible." : "PHP ظاهراً برای خنثی کردن بلوک های اسناد درون خطی تنظیم شده است. این کار چندین برنامه اصلی را غیرقابل دسترسی خواهد کرد.",

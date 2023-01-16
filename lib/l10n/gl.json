@@ -190,7 +190,7 @@
     "PHP module %s not installed." : "O módulo PHP %s non está instalado.",
     "Please ask your server administrator to install the module." : "Pregúntelle ao administrador do servidor pola instalación do módulo.",
     "PHP setting \"%s\" is not set to \"%s\"." : "O axuste de PHP «%s» non está estabelecido a «%s».",
-    "Adjusting this setting in php.ini will make Nextcloud run again" : "Cambiar este axuste no ficheiro php.ini fará que Nextcloud funcione de novo",
+    "Adjusting this setting in php.ini will make xD Drive run again" : "Cambiar este axuste no ficheiro php.ini fará que xD Drive funcione de novo",
     "libxml2 2.7.0 is at least required. Currently %s is installed." : "É necesario, cando menos, libxml2 2.7.0. Actualmente esta instalado %s.",
     "To fix this issue update your libxml2 version and restart your web server." : "Para arranxar esta incidencia, actualice a versión de libxml2 e reinicie o servidor web. ",
     "PHP is apparently set up to strip inline doc blocks. This will make several core apps inaccessible." : "Semella que PHP foi configurado para quitar bloques de documentos en liña. Isto fará que varias aplicacións sexan inaccesíbeis.",
