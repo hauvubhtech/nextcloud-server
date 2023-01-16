@@ -98,7 +98,7 @@
 				<!-- Featured/Supported badges -->
 				<div v-if="app.level === 300 || app.level === 200 || hasRating" class="app-level">
 					<span v-if="app.level === 300"
-						v-tooltip.auto="t('settings', 'This app is supported via your current Nextcloud subscription.')"
+						v-tooltip.auto="t('settings', 'This app is supported via your current xD Drive subscription.')"
 						class="supported icon-checkmark-color">
 						{{ t('settings', 'Supported') }}</span>
 					<span v-if="app.level === 200"

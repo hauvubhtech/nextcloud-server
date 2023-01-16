@@ -90,10 +90,10 @@
 
 		<ul class="app-details__dependencies">
 			<li v-if="app.missingMinOwnCloudVersion">
-				{{ t('settings', 'This app has no minimum Nextcloud version assigned. This will be an error in the future.') }}
+				{{ t('settings', 'This app has no minimum xD Drive version assigned. This will be an error in the future.') }}
 			</li>
 			<li v-if="app.missingMaxOwnCloudVersion">
-				{{ t('settings', 'This app has no maximum Nextcloud version assigned. This will be an error in the future.') }}
+				{{ t('settings', 'This app has no maximum xD Drive version assigned. This will be an error in the future.') }}
 			</li>
 			<li v-if="!app.canInstall">
 				{{ t('settings', 'This app cannot be installed because the following dependencies are not fulfilled:') }}

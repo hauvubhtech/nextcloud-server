@@ -365,7 +365,7 @@ export default {
 		wipeUserDevices() {
 			const userid = this.user.id
 			OC.dialogs.confirmDestructive(
-				t('settings', 'In case of lost device or exiting the organization, this can remotely wipe the Nextcloud data from all devices associated with {userid}. Only works if the devices are connected to the internet.', { userid }),
+				t('settings', 'In case of lost device or exiting the organization, this can remotely wipe the xD Drive data from all devices associated with {userid}. Only works if the devices are connected to the internet.', { userid }),
 				t('settings', 'Remote wipe of devices'),
 				{
 					type: OC.dialogs.YES_NO_BUTTONS,
