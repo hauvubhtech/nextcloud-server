@@ -123,22 +123,22 @@ class BackgroundJobTest extends TestCase {
 			['beta', false, false, null, 13],
 			['beta', [
 				'version' => '9.2.0',
-				'versionstring' => 'Nextcloud 11.0.0',
-			], '9.2.0', 'Nextcloud 11.0.0', null],
+				'versionstring' => 'xD Drive 11.0.0',
+			], '9.2.0', 'xD Drive 11.0.0', null],
 			['stable', [], null, null, null],
 			['stable', false, false, null, null],
 			['stable', false, false, null, 6],
 			['stable', [
 				'version' => '9.2.0',
-				'versionstring' => 'Nextcloud 11.0.0',
-			], '9.2.0', 'Nextcloud 11.0.0', null],
+				'versionstring' => 'xD Drive 11.0.0',
+			], '9.2.0', 'xD Drive 11.0.0', null],
 			['production', [], null, null, null],
 			['production', false, false, null, null],
 			['production', false, false, null, 2],
 			['production', [
 				'version' => '9.2.0',
-				'versionstring' => 'Nextcloud 11.0.0',
-			], '9.2.0', 'Nextcloud 11.0.0', null],
+				'versionstring' => 'xD Drive 11.0.0',
+			], '9.2.0', 'xD Drive 11.0.0', null],
 		];
 	}
 

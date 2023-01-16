@@ -223,8 +223,8 @@ export default {
 			}
 
 			return this.missingAppUpdates.length === 0
-				? t('updatenotification', '<strong>All</strong> apps have a compatible version for this Nextcloud version available.', this)
-				: n('updatenotification', '<strong>%n</strong> app has no compatible version for this Nextcloud version available.', '<strong>%n</strong> apps have no compatible version for this Nextcloud version available.', this.missingAppUpdates.length)
+				? t('updatenotification', '<strong>All</strong> apps have a compatible version for this xD Drive version available.', this)
+				: n('updatenotification', '<strong>%n</strong> app has no compatible version for this xD Drive version available.', '<strong>%n</strong> apps have no compatible version for this xD Drive version available.', this.missingAppUpdates.length)
 		},
 
 		whatsNew() {
@@ -252,7 +252,7 @@ export default {
 
 			channelList.push({
 				text: t('updatenotification', 'Enterprise'),
-				longtext: t('updatenotification', 'For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once Nextcloud GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the Nextcloud Enterprise package.'),
+				longtext: t('updatenotification', 'For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once xD Drive GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the xD Drive Enterprise package.'),
 				icon: 'icon-star',
 				active: this.currentChannel === 'enterprise',
 				disabled: !this.hasValidSubscription,

@@ -123,7 +123,7 @@ class Notifier implements INotifier {
 			}
 
 			$notification->setParsedSubject($l->t('The update server could not be reached since %d days to check for new updates.', [$errors]))
-				->setParsedMessage($l->t('Please check the Nextcloud and server log files for errors.'));
+				->setParsedMessage($l->t('Please check the xD Drive and server log files for errors.'));
 		} elseif ($notification->getObjectType() === 'core') {
 			$this->updateAlreadyInstalledCheck($notification, $this->getCoreVersions());
 
