@@ -46,7 +46,7 @@ OC.L10N.register(
     "The default light appearance." : "Az alapértelmezett világos megjelenés.",
     "Legal notice" : "Jogi nyilatkozat",
     "Privacy policy" : "Adatvédelmi irányelvek",
-    "Adjust the Nextcloud theme" : "A Nextcloud téma módosítása",
+    "Adjust the xD Drive theme" : "A xD Drive téma módosítása",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "A témák lehetővé teszik, hogy könnyedén személyre szabja a példány és a támogatott kliensek megjelenését. Ez minden felhasználó számára látható lesz.",
     "Advanced options" : "Speciális beállítások",
     "Install the ImageMagick PHP extension with support for SVG images to automatically generate favicons based on the uploaded logo and color." : "Telepítse az ImageMagick PHP kiterjesztést SVG képtámogatással, hogy automatikusan előállítsa a kedvencek ikont a feltöltött logó és szín alapján.",

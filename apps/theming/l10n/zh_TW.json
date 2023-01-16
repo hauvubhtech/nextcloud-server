@@ -44,7 +44,7 @@
     "The default light appearance." : "預設的淺色外觀。",
     "Legal notice" : "法律聲明",
     "Privacy policy" : "隱私權政策",
-    "Adjust the Nextcloud theme" : "調整 Nextcloud 佈景主題",
+    "Adjust the xD Drive theme" : "調整 xD Drive 佈景主題",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "使用佈景主題來客製化網頁界面和客戶端程式的外觀（並非所有客戶端程式都支援佈景主題），外觀將會套用至所有使用者。",
     "Advanced options" : "進階選項",
     "Install the ImageMagick PHP extension with support for SVG images to automatically generate favicons based on the uploaded logo and color." : "安裝支援 SVG 圖片的 PHP ImageMagick 擴充元件，以上傳的圖示與顏色為基礎生成 favicons。",

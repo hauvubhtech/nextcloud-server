@@ -32,7 +32,7 @@ OC.L10N.register(
     "A high contrast mode to ease your navigation. Visual quality will be reduced but clarity will be increased." : "מצב ניגודיות גבוהה מקלה על הניווט שלך. האיכות החזותית תיפגע אך השימוש יהיה ברור יותר.",
     "Legal notice" : "הצהרה משפטית",
     "Privacy policy" : "מדיניות פרטיות",
-    "Adjust the Nextcloud theme" : "התאמת ערכת העיצוב של Nextcloud",
+    "Adjust the xD Drive theme" : "התאמת ערכת העיצוב של xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "עם ערכות עיצוב ניתן להתאים את המראה והתחושה של המערכת ושל הלקוחות הנתמכים שלך. אלו תהיינה גלויות לכל המשתמשים.",
     "Advanced options" : "אפשרויות מתקדמות",
     "Name" : "שם",

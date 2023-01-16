@@ -35,7 +35,7 @@ OC.L10N.register(
     "Enable the default light theme" : "기본 밝은 테마 활성화",
     "Legal notice" : "법적 고지",
     "Privacy policy" : "개인 정보 취급 방침",
-    "Adjust the Nextcloud theme" : "Nextcloud 테마 사용자 정의",
+    "Adjust the xD Drive theme" : "xD Drive 테마 사용자 정의",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "테마를 사용하여 내 인스턴스와 지원하는 클라이언트의 모습을 변경할 수 있습니다. 테마는 모든 사용자에게 적용됩니다.",
     "Advanced options" : "고급 설정",
     "Name" : "이름",

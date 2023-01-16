@@ -32,7 +32,7 @@ OC.L10N.register(
     "A high contrast mode to ease your navigation. Visual quality will be reduced but clarity will be increased." : "Chế độ tương phản cao giúp bạn dễ dàng điều hướng và phân biệt vị trí các mục chính xác hơn. Chất lượng hình ảnh sẽ giảm nhưng độ rõ sẽ được tăng lên.",
     "Legal notice" : "Thông cáo pháp lý",
     "Privacy policy" : "Chính sách riêng tư",
-    "Adjust the Nextcloud theme" : "Tinh chỉnh chủ đề Nextcloud",
+    "Adjust the xD Drive theme" : "Tinh chỉnh chủ đề xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Điều chỉnh giao diện cho phép bạn có thể dễ dàng tùy biến bố cục trình bày của hệ thống. Khi thực hiện nó sẽ hiện hữu đối với tất cả người dùng",
     "Advanced options" : "Tùy chọn nâng cao",
     "Name" : "Tên",

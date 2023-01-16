@@ -46,7 +46,7 @@ OC.L10N.register(
     "The default light appearance." : "De standaard lichte weergave.",
     "Legal notice" : "Juridische bepalingen",
     "Privacy policy" : "Privacybeleid",
-    "Adjust the Nextcloud theme" : "Nextcloud thema bijstellen",
+    "Adjust the xD Drive theme" : "xD Drive thema bijstellen",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Thematiseren maakt het mogelijk om uiterlijk en gevoel van je systeem en ondersteunde clients aan te passen. Dit wordt zichtbaar voor alle gebruikers.",
     "Advanced options" : "Geavanceerde opties",
     "Name" : "Naam",

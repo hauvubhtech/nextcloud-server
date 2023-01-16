@@ -43,7 +43,7 @@ OC.L10N.register(
     "The default light appearance." : "Itxura argi lehenetsia.",
     "Legal notice" : "Ohar legala",
     "Privacy policy" : "Pribatutasun politika",
-    "Adjust the Nextcloud theme" : "Doitu Nextcloud gaia",
+    "Adjust the xD Drive theme" : "Doitu xD Drive gaia",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Gaiak aukera ematen du zure instantziaren eta onartutako bezeroen itxura eta izaera erraz pertsonalizatzeko. Hau erabiltzaile guztientzat ikusgai egongo da.",
     "Advanced options" : "Ezarpen aurreratuak",
     "Name" : "Izena",

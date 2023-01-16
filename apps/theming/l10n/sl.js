@@ -43,7 +43,7 @@ OC.L10N.register(
     "The default light appearance." : "Privzet svetel videz okolja.",
     "Legal notice" : "Pravno obvestilo",
     "Privacy policy" : "Pravila zasebnosti",
-    "Adjust the Nextcloud theme" : "Prilagajanje teme Nextcloud",
+    "Adjust the xD Drive theme" : "Prilagajanje teme xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Teme omogočajo enostavno prilagajanje videza in občutka vmesnika in podprtih programskih odjemalcev. Prilagoditve bodo spremenjene za vse uporabnike sistema.",
     "Advanced options" : "Napredne možnosti",
     "Name" : "Ime",

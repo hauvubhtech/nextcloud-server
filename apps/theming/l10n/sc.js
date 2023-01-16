@@ -32,7 +32,7 @@ OC.L10N.register(
     "A high contrast mode to ease your navigation. Visual quality will be reduced but clarity will be increased." : "Unu cuntrastu artu pro agiudare sa navigatzione tua. S'at a menguare sa calidade de visualizatzione, ma at a crèschere sa craresa.",
     "Legal notice" : "Avisu legale",
     "Privacy policy" : "Critèriu de riservadesa",
-    "Adjust the Nextcloud theme" : "Modìfica su tema de Nextcloud",
+    "Adjust the xD Drive theme" : "Modìfica su tema de xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Sa gestione de is temas faghet chi sa personalizatzione de sa bista de s'istàntzia tua e de is clientes suportados siat prus fàtzile. Custu at a èssere visìbile pro totu is utentes.",
     "Advanced options" : "Sèberos avantzados",
     "Name" : "Nùmene",

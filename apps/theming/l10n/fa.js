@@ -46,7 +46,7 @@ OC.L10N.register(
     "The default light appearance." : "ظاهر روشن پیش گزیده.",
     "Legal notice" : "توصیهٔ حقوقی",
     "Privacy policy" : "سیاست محرمانگی",
-    "Adjust the Nextcloud theme" : "تنظیم زمینهٔ نکست‌کلود",
+    "Adjust the xD Drive theme" : "تنظیم زمینهٔ نکست‌کلود",
     "Advanced options" : "گزینه‌های پیش‌رفته",
     "Name" : "نام",
     "Web link" : "پیوند وب",

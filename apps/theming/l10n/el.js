@@ -43,7 +43,7 @@ OC.L10N.register(
     "The default light appearance." : "Η προεπιλεγμένη ανοιχτόχρωμη εμφάνιση.",
     "Legal notice" : "Νομική ειδοποίηση",
     "Privacy policy" : "Πολιτική Απορρήτου",
-    "Adjust the Nextcloud theme" : "Προσαρμόστε το θέμα του Nextcloud",
+    "Adjust the xD Drive theme" : "Προσαρμόστε το θέμα του xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Η προσαρμογή θέματος καθιστά δυνατή την εύκολη προσαρμογή της εμφάνισης της εγκατάστασής σας καθώς και των υποστηριζόμενων πελατών. Θα είναι ορατή για όλους τους χρήστες.",
     "Advanced options" : "Επιλογές για προχωρημένους",
     "Name" : "Όνομα",

@@ -39,7 +39,7 @@ OC.L10N.register(
     "The default light appearance." : "L'aspetto predefinito del tema leggero.",
     "Legal notice" : "Avviso legale",
     "Privacy policy" : "Criterio di riservatezza",
-    "Adjust the Nextcloud theme" : "Modifica il tema di Nextcloud",
+    "Adjust the xD Drive theme" : "Modifica il tema di xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "La gestione dei temi rende semplice la personalizzazione dell'aspetto della tua istanza e dei client supportati. Ciò sarà visibile a tutti gli utenti.",
     "Advanced options" : "Opzioni avanzate",
     "Name" : "Nome",

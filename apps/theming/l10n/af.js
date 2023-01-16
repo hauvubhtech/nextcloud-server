@@ -27,7 +27,7 @@ OC.L10N.register(
     "A high contrast mode to ease your navigation. Visual quality will be reduced but clarity will be increased." : "’n Hoëkontrasmodus om u navigasie te vergemaklik. Visuele kwaliteit sal verminder word, maar die duidelikheid sal verbeter.",
     "Legal notice" : "Regskennisgewing",
     "Privacy policy" : "Privaatheidsbeleid",
-    "Adjust the Nextcloud theme" : "Pas die Nextcloud-tema aan",
+    "Adjust the xD Drive theme" : "Pas die xD Drive-tema aan",
     "Keyboard shortcuts" : "Sneltoetse",
     "Background" : "Agtergrond",
     "Open documentation" : "Open dokumentasie",

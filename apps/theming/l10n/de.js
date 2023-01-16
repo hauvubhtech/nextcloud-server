@@ -46,7 +46,7 @@ OC.L10N.register(
     "The default light appearance." : "Das helle Standard-Erscheinungsbild",
     "Legal notice" : "Impressum",
     "Privacy policy" : "Datenschutzerklärung ",
-    "Adjust the Nextcloud theme" : "Passe das Design von Nextcloud an",
+    "Adjust the xD Drive theme" : "Passe das Design von xD Drive an",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Das Ändern des Designs ermöglicht es auf einfache Weise das Aussehen deiner Installation und Clients anzupassen. Die Änderungen wirken sich auf alle Benutzer aus.",
     "Advanced options" : "Erweiterte Optionen",
     "Install the ImageMagick PHP extension with support for SVG images to automatically generate favicons based on the uploaded logo and color." : "Installiere die ImageMagick PHP-Erweiterung mit Unterstützung für SVG-Bilder, um automatisch Favicons auf Basis des hochgeladenen Logos und der Farbe zu erstellen.",

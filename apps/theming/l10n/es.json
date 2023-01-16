@@ -44,7 +44,7 @@
     "The default light appearance." : "La apariencia clara por defecto",
     "Legal notice" : "Aviso legal",
     "Privacy policy" : "Política de privacidad",
-    "Adjust the Nextcloud theme" : "Ajusta el tema de Nextcloud",
+    "Adjust the xD Drive theme" : "Ajusta el tema de xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Los temas hacen posible personalizar fácilmente la apariencia de tu instancia y los clientes soportados. Esto será visible para todos los usuarios.",
     "Advanced options" : "Opciones avanzadas",
     "Install the ImageMagick PHP extension with support for SVG images to automatically generate favicons based on the uploaded logo and color." : "Instale la extensión PHP ImageMagick con soporte a imágenes SVG para generar automáticamente favicons basados en el logo cargado y el color.",

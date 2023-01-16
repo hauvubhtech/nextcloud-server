@@ -33,7 +33,7 @@ OC.L10N.register(
     "A high contrast mode to ease your navigation. Visual quality will be reduced but clarity will be increased." : "Ett läge med hög kontrast för att underlätta din navigering. Visuell kvalitet kommer att minska men tydligheten ökar.",
     "Legal notice" : "Rättsligt meddelande",
     "Privacy policy" : "Integritetspolicy",
-    "Adjust the Nextcloud theme" : "Justera Nextcloud-tema",
+    "Adjust the xD Drive theme" : "Justera xD Drive-tema",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Teman gör det möjligt att enkelt skräddarsy utseendet på ditt moln. Detta kommer att synas för alla användare.",
     "Advanced options" : "Avancerade inställningar",
     "Name" : "Namn",
