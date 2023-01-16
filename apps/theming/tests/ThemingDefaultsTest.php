@@ -113,17 +113,17 @@ class ThemingDefaultsTest extends TestCase {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
-			->willReturn('Nextcloud');
+			->with('theming', 'name', 'xD Drive')
+			->willReturn('xD Drive');
 
-		$this->assertEquals('Nextcloud', $this->template->getName());
+		$this->assertEquals('xD Drive', $this->template->getName());
 	}
 
 	public function testGetNameWithCustom() {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
+			->with('theming', 'name', 'xD Drive')
 			->willReturn('MyCustomCloud');
 
 		$this->assertEquals('MyCustomCloud', $this->template->getName());
@@ -133,17 +133,17 @@ class ThemingDefaultsTest extends TestCase {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
-			->willReturn('Nextcloud');
+			->with('theming', 'name', 'xD Drive')
+			->willReturn('xD Drive');
 
-		$this->assertEquals('Nextcloud', $this->template->getHTMLName());
+		$this->assertEquals('xD Drive', $this->template->getHTMLName());
 	}
 
 	public function testGetHTMLNameWithCustom() {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
+			->with('theming', 'name', 'xD Drive')
 			->willReturn('MyCustomCloud');
 
 		$this->assertEquals('MyCustomCloud', $this->template->getHTMLName());
@@ -153,17 +153,17 @@ class ThemingDefaultsTest extends TestCase {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
-			->willReturn('Nextcloud');
+			->with('theming', 'name', 'xD Drive')
+			->willReturn('xD Drive');
 
-		$this->assertEquals('Nextcloud', $this->template->getTitle());
+		$this->assertEquals('xD Drive', $this->template->getTitle());
 	}
 
 	public function testGetTitleWithCustom() {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
+			->with('theming', 'name', 'xD Drive')
 			->willReturn('MyCustomCloud');
 
 		$this->assertEquals('MyCustomCloud', $this->template->getTitle());
@@ -174,17 +174,17 @@ class ThemingDefaultsTest extends TestCase {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
-			->willReturn('Nextcloud');
+			->with('theming', 'name', 'xD Drive')
+			->willReturn('xD Drive');
 
-		$this->assertEquals('Nextcloud', $this->template->getEntity());
+		$this->assertEquals('xD Drive', $this->template->getEntity());
 	}
 
 	public function testGetEntityWithCustom() {
 		$this->config
 			->expects($this->once())
 			->method('getAppValue')
-			->with('theming', 'name', 'Nextcloud')
+			->with('theming', 'name', 'xD Drive')
 			->willReturn('MyCustomCloud');
 
 		$this->assertEquals('MyCustomCloud', $this->template->getEntity());
@@ -271,7 +271,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', ''],
 				['theming', 'privacyUrl', '', ''],
@@ -287,7 +287,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), ''],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', ''],
 				['theming', 'privacyUrl', '', ''],
@@ -303,7 +303,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), ''],
 				['theming', 'imprintUrl', '', ''],
 				['theming', 'privacyUrl', '', ''],
@@ -319,7 +319,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', 'https://example.com/imprint'],
 				['theming', 'privacyUrl', '', ''],
@@ -340,7 +340,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', ''],
 				['theming', 'privacyUrl', '', 'https://example.com/privacy'],
@@ -361,7 +361,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', 'https://example.com/imprint'],
 				['theming', 'privacyUrl', '', 'https://example.com/privacy'],
@@ -393,7 +393,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', $invalidImprintUrl],
 				['theming', 'privacyUrl', '', ''],
@@ -413,7 +413,7 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->willReturnMap([
 				['theming', 'url', $this->defaults->getBaseUrl(), 'url'],
-				['theming', 'name', 'Nextcloud', 'Name'],
+				['theming', 'name', 'xD Drive', 'Name'],
 				['theming', 'slogan', $this->defaults->getSlogan(), 'Slogan'],
 				['theming', 'imprintUrl', '', ''],
 				['theming', 'privacyUrl', '', $invalidPrivacyUrl],
@@ -558,17 +558,17 @@ class ThemingDefaultsTest extends TestCase {
 			->method('getAppValue')
 			->withConsecutive(
 				['theming', 'cachebuster', '0'],
-				['theming', 'name', 'Nextcloud'],
+				['theming', 'name', 'xD Drive'],
 			)->willReturnOnConsecutiveCalls(
 				'15',
-				'Nextcloud',
+				'xD Drive',
 			);
 		$this->config
 			->expects($this->once())
 			->method('setAppValue')
 			->with('theming', 'cachebuster', 16);
 
-		$this->assertSame('Nextcloud', $this->template->undo('name'));
+		$this->assertSame('xD Drive', $this->template->undo('name'));
 	}
 
 	public function testUndoBaseUrl() {
