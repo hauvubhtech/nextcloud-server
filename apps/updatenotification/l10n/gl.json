@@ -4,12 +4,12 @@
     "Web updater is disabled" : "O actualizador web está desactivado",
     "Update notifications" : "Actualizar as notificacións",
     "The update server could not be reached since %d days to check for new updates." : "Non foi posíbel acadar o servidor de actualizacións dende hai %d días para comprobar se hai novas actualizacións.",
-    "Please check the Nextcloud and server log files for errors." : "Revise os ficheiros de rexistro de Nextcloud e do servidor na busca de erros.",
+    "Please check the xD Drive and server log files for errors." : "Revise os ficheiros de rexistro de xD Drive e do servidor na busca de erros.",
     "Update to %1$s is available." : "Está dispoñíbel  unha actualización para %1$s.",
     "Update for %1$s to version %2$s is available." : "Está dispoñíbel unha actualización para %1$s á versión %2$s.",
     "Update for {app} to version %s is available." : "Está dispoñíbel unha actualización para {app} á versión %s.",
     "Update notification" : "Notificación de actualización",
-    "Displays update notifications for Nextcloud and provides the SSO for the updater." : "Amosa as notificacións de actualizacións para o Nexcloud e fornece o SSO para o actualizador.",
+    "Displays update notifications for xD Drive and provides the SSO for the updater." : "Amosa as notificacións de actualizacións para o Nexcloud e fornece o SSO para o actualizador.",
     "Update" : "Actualizar",
     "The version you are running is not maintained anymore. Please make sure to update to a supported version as soon as possible." : "A versión que ten en execución xa non dispón de mantemento. Asegúrese de actualizar a unha versión asistida tecnicamente tan cedo como lle sexa posíbel.",
     "Apps missing compatible version" : "Aplicacións que carecen de versión compatíbel",
@@ -35,12 +35,12 @@
     "Please make sure your config.php does not set <samp>appstoreenabled</samp> to false." : "Asegúrese de que o seu config.php non ten configurado <samp>appstoreenabled</samp> como «false».",
     "View changelog" : "Ver o rexistro de cambios",
     "Enterprise" : "Empresarial",
-    "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once Nextcloud GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the Nextcloud Enterprise package." : "Para uso empresarial. Ofrece sempre o último nivel de parches, pero non se actualizará inmediatamente á seguinte versión principal. Esta actualización prodúcese unha vez que Nextcloud GmbH teña feitas as probas e reforzos para implementacións a gran escala e de obxectivos críticos. Esta canle só está dispoñíbel para os clientes e fornece o paquete Nextcloud empresarial.",
+    "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once xD Drive GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the xD Drive Enterprise package." : "Para uso empresarial. Ofrece sempre o último nivel de parches, pero non se actualizará inmediatamente á seguinte versión principal. Esta actualización prodúcese unha vez que xD Drive GmbH teña feitas as probas e reforzos para implementacións a gran escala e de obxectivos críticos. Esta canle só está dispoñíbel para os clientes e fornece o paquete xD Drive empresarial.",
     "Stable" : "Estábel",
     "The most recent stable version. It is suited for regular use and will always update to the latest major version." : "A versión estábel máis recente. É axeitada para uso en produción e actualizarase sempre á última versión maior.",
     "Beta" : "Beta",
     "A pre-release version only for testing new features, not for production environments." : "Unha versión preliminar só para probar funcionalidades novas, non para contornos de produción",
-    "<strong>All</strong> apps have a compatible version for this Nextcloud version available" : "<strong>Todas</strong> as aplicacións teñen dispoñíbel unha versión compatible para esta versión de Nextcloud",
-    "_<strong>%n</strong> app has no compatible version for this Nextcloud version available_::_<strong>%n</strong> apps have no compatible version for this Nextcloud version available_" : ["<strong>%n</strong> aplicación non ten ningunha versión compatíbel dispoñíbel para esta versión de Nextcloud","<strong>%n</strong> aplicacións non teñen ningunha versión compatíbel dispoñíbel para esta versión de Nextcloud"]
+    "<strong>All</strong> apps have a compatible version for this xD Drive version available" : "<strong>Todas</strong> as aplicacións teñen dispoñíbel unha versión compatible para esta versión de xD Drive",
+    "_<strong>%n</strong> app has no compatible version for this xD Drive version available_::_<strong>%n</strong> apps have no compatible version for this xD Drive version available_" : ["<strong>%n</strong> aplicación non ten ningunha versión compatíbel dispoñíbel para esta versión de xD Drive","<strong>%n</strong> aplicacións non teñen ningunha versión compatíbel dispoñíbel para esta versión de xD Drive"]
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

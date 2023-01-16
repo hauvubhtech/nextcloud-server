@@ -5,7 +5,7 @@ OC.L10N.register(
     "Channel updated" : "Kanal opdateret",
     "Update notifications" : "Opdaterings notifikationer",
     "The update server could not be reached since %d days to check for new updates." : "Har ikke været forbundet til opdateringsserveren i %d dage for at tjekke efter nye opdateringer.",
-    "Please check the Nextcloud and server log files for errors." : "Tjek venligst Nextcloud server log for fejl.",
+    "Please check the xD Drive and server log files for errors." : "Tjek venligst xD Drive server log for fejl.",
     "Update to %1$s is available." : "Opdatering til %1$s er tilgængelig.",
     "Update for %1$s to version %2$s is available." : "Opdatering af %1$s til version %2$s er tilgængelig.",
     "Update for {app} to version %s is available." : "Opdatering af {app} til version %s er tilgængelig.",

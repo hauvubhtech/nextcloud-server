@@ -5,7 +5,7 @@ OC.L10N.register(
     "Channel updated" : "განახლების შეჩერება",
     "Update notifications" : "განახლების შეტყობინებები",
     "The update server could not be reached since %d days to check for new updates." : "განახლების სერვერი გალახლებების შესამოწმებლად %d დღე მიუწვდომელია.",
-    "Please check the Nextcloud and server log files for errors." : "შეცდომებისთვის გთხოვთ შეამოწმოთ Nextcloud-ი სერვერის ლოგები.",
+    "Please check the xD Drive and server log files for errors." : "შეცდომებისთვის გთხოვთ შეამოწმოთ xD Drive-ი სერვერის ლოგები.",
     "Update to %1$s is available." : "განახლება %1$s-ზე ხელმისაწვდომია.",
     "Update for %1$s to version %2$s is available." : "%1$s-ის განახლება %2$s ვერსიაზე ხელმისაწვდომია.",
     "Update for {app} to version %s is available." : "განახლება აპლიკაციისთვის {app} ვერსიაზე %s ხელმისაწვდომია.",

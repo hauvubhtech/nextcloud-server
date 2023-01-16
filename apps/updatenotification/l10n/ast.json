@@ -3,7 +3,7 @@
     "Channel updated" : "Anovóse la canal",
     "Update notifications" : "Avisos d'anovamientu",
     "The update server could not be reached since %d days to check for new updates." : "Nun pudo algamase'l sirvidor d'anovamientu dende hai %d díes pa comprobar anovamientos.",
-    "Please check the Nextcloud and server log files for errors." : "Comprueba los fallos de los ficheros de rexistru del sirvidor y Nextcloud, por favor.",
+    "Please check the xD Drive and server log files for errors." : "Comprueba los fallos de los ficheros de rexistru del sirvidor y xD Drive, por favor.",
     "Update to %1$s is available." : "Ta disponible l'anovamientu a %1$s",
     "Update for %1$s to version %2$s is available." : "Ta disponible l'anovamientu pa %1$s a la versión %2$s.",
     "Update for {app} to version %s is available." : "Ta disponible l'anovamientu pa {app} a la versión %s.",

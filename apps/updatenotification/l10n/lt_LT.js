@@ -5,7 +5,7 @@ OC.L10N.register(
     "Channel updated" : "Kanalas atnaujintas",
     "Update notifications" : "Atnaujinimų pranešimai",
     "The update server could not be reached since %d days to check for new updates." : " Atnaujinimo serveris nepasiekiamas  %d dienas.",
-    "Please check the Nextcloud and server log files for errors." : "Prašome patikrinti Nextcloud ir serverio žurnalų įrašus apie galimas klaidas.",
+    "Please check the xD Drive and server log files for errors." : "Prašome patikrinti xD Drive ir serverio žurnalų įrašus apie galimas klaidas.",
     "Update to %1$s is available." : "Yra prieinamas atnaujinimas į %1$s.",
     "Update for %1$s to version %2$s is available." : "Yra prieinamas %1$s atnaujinimas į versiją %2$s.",
     "Update for {app} to version %s is available." : "Yra prieinamas {app} atnaujinimas į versiją %s.",

@@ -5,7 +5,7 @@ OC.L10N.register(
     "Update notifications" : "Werk kennisgewings by",
     "Channel updated" : "Kanaal bygewerk",
     "The update server could not be reached since %d days to check for new updates." : "Die bywerkingsbediener kan al vir %d dae nie bereik word om nuwe bywerkings te soek nie.",
-    "Please check the Nextcloud and server log files for errors." : "Gaan die Nextcloud- en bedienerloglêers na vir foute.",
+    "Please check the xD Drive and server log files for errors." : "Gaan die xD Drive- en bedienerloglêers na vir foute.",
     "Update to %1$s is available." : "Bywerking vir %1$s is beskikbaar.",
     "Update for %1$s to version %2$s is available." : "Bywerking vir %1$s na weergawe %2$s is beskikbaar.",
     "Update for {app} to version %s is available." : "Bywerking vir {app} na weergawe %s is beskikbaar.",
