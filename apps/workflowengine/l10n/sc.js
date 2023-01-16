@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Su controllu #%s no esistit",
     "Check %s is invalid or does not exist" : "Su controllu %s no est bàlidu o no esistit",
     "Flow" : "Flussu",
-    "Nextcloud workflow engine" : "Motore de su flussu de traballu de Nextcloud",
+    "xD Drive workflow engine" : "Motore de su flussu de traballu de xD Drive",
     "Select a filter" : "Seletziona unu filtru",
     "Select a comparator" : "Seletziona unu cumparadore",
     "Select a file type" : "Seletziona una genia de archìviu",

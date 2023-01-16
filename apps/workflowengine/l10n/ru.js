@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Проверка #%s не существует",
     "Check %s is invalid or does not exist" : "Проверка %s неверна или не существует",
     "Flow" : "Обработка файлов",
-    "Nextcloud workflow engine" : "Механизм обработки Nextcloud",
+    "xD Drive workflow engine" : "Механизм обработки xD Drive",
     "Select a filter" : "Выберите фильтр",
     "Select a comparator" : "Выберите компаратор",
     "Select a file type" : "Выберите тип файла",

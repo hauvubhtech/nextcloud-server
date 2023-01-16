@@ -32,7 +32,7 @@ OC.L10N.register(
     "Check %s is not allowed with this entity" : "La kontrolo %s ne estas permesita kun tiu ento",
     "Check #%s does not exist" : "Kontrolo n-ro %s ne ekzistas",
     "Check %s is invalid or does not exist" : "La kontrolo %s ne validas aŭ ne ekzistas",
-    "Nextcloud workflow engine" : "Modulo de laborfluo de Nextcloud",
+    "xD Drive workflow engine" : "Modulo de laborfluo de xD Drive",
     "Select a filter" : "Elekti filtrilon",
     "Select a comparator" : "Elekti komparilon",
     "Select a file type" : "Elekti dosierformon",

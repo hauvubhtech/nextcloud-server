@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Check #%s does not exist",
     "Check %s is invalid or does not exist" : "Check %s is invalid or does not exist",
     "Flow" : "Flow",
-    "Nextcloud workflow engine" : "Nextcloud workflow engine",
+    "xD Drive workflow engine" : "xD Drive workflow engine",
     "Select a filter" : "Select a filter",
     "Select a comparator" : "Select a comparator",
     "Select a file type" : "Select a file type",

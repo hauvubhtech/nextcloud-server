@@ -43,7 +43,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Patikrinimas #%s neegzistuoja",
     "Check %s is invalid or does not exist" : "%s neteisingas arba neegzistuoja",
     "Flow" : "Eiga",
-    "Nextcloud workflow engine" : "Nextcloud darbo eigos modulis",
+    "xD Drive workflow engine" : "xD Drive darbo eigos modulis",
     "Select a filter" : "Pasirinkite filtrą",
     "Select a comparator" : "Pasirinkite palyginimą",
     "Select a file type" : "Pasirinkite failo tipą",

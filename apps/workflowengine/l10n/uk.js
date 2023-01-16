@@ -28,7 +28,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Перевірка №%s не існує",
     "Check %s is invalid or does not exist" : "Чек %s недійсний або не існує",
     "Flow" : "Процеси",
-    "Nextcloud workflow engine" : "Керування робочими процесами у Nextcloud",
+    "xD Drive workflow engine" : "Керування робочими процесами у xD Drive",
     "Folder" : "Каталог",
     "Images" : "Зображення",
     "Predefined URLs" : "Попередньо визначені URL-адреси",

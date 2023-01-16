@@ -36,7 +36,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "בדיקה מס׳ %s לא קיימת",
     "Check %s is invalid or does not exist" : "הבדיקה %s שגויה או שאינה קיימת",
     "Flow" : "רצף",
-    "Nextcloud workflow engine" : "מנגנון רצף הפעילות של Nextcloud",
+    "xD Drive workflow engine" : "מנגנון רצף הפעילות של xD Drive",
     "Select a filter" : "נא לבחור מסנן",
     "Select a comparator" : "נא לבחור משווה",
     "Select a file type" : "נא לבחור סוג קובץ",

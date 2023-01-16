@@ -37,7 +37,7 @@
     "Check #%s does not exist" : "검사 #%s이(가) 존재하지 않음",
     "Check %s is invalid or does not exist" : "검사 %s이(가) 올바르지 않거나 존재하지 않음",
     "Flow" : "흐름",
-    "Nextcloud workflow engine" : "Nextcloud 작업 흐름 엔진",
+    "xD Drive workflow engine" : "xD Drive 작업 흐름 엔진",
     "Select a filter" : "필터 선택",
     "Select a file type" : "파일 타입 선택",
     "Folder" : "폴더",

@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "A(z) #%s nem létezik, ellenőrizze",
     "Check %s is invalid or does not exist" : "A(z) %s érvénytelen vagy nem létezik, ellenőrizze",
     "Flow" : "Folyamat",
-    "Nextcloud workflow engine" : "Nextcloud munkafolyamat-motor",
+    "xD Drive workflow engine" : "xD Drive munkafolyamat-motor",
     "Select a filter" : "Válasszon szűrőt",
     "Select a comparator" : "Válasszon összehasonlítót",
     "Select a file type" : "Válasszon fájltípust",

@@ -43,7 +43,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Comprovació #%s no existeix",
     "Check %s is invalid or does not exist" : "Comprovació %s no és vàlida o no existeix",
     "Flow" : "Flux",
-    "Nextcloud workflow engine" : "Motor de flux de treball de Nextcloud",
+    "xD Drive workflow engine" : "Motor de flux de treball de xD Drive",
     "Select a filter" : "Seleccioneu un filtre",
     "Select a comparator" : "Seleccioneu un comparador",
     "Select a file type" : "Seleccioneu un tipus de fitxer",

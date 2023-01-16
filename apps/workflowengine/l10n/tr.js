@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "#%s denetimi bulunamadı",
     "Check %s is invalid or does not exist" : "%s denetimi geçersiz ya da bulunamadı",
     "Flow" : "Akış",
-    "Nextcloud workflow engine" : "Nextcloud iş akışı işleyici",
+    "xD Drive workflow engine" : "xD Drive iş akışı işleyici",
     "Select a filter" : "Bir süzgeç seçin",
     "Select a comparator" : "Bir karşılaştırıcı seçin",
     "Select a file type" : "Bir dosya türü seçin",

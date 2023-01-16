@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "チェック #%s は存在しません",
     "Check %s is invalid or does not exist" : "%sのチェックは無効か存在しません",
     "Flow" : "Flow",
-    "Nextcloud workflow engine" : "Nextcloud ワークフローエンジン",
+    "xD Drive workflow engine" : "xD Drive ワークフローエンジン",
     "Select a filter" : "フィルターを選択",
     "Select a comparator" : "比較演算子を指定",
     "Select a file type" : "ファイルタイプを指定",

@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Preverba #%s ne obstaja.",
     "Check %s is invalid or does not exist" : "Preverba %s ne obstaja.",
     "Flow" : "Koračnik (Flow)",
-    "Nextcloud workflow engine" : "Program za koračno avtomatizacijo delovnih nalog",
+    "xD Drive workflow engine" : "Program za koračno avtomatizacijo delovnih nalog",
     "Select a filter" : "Izbor filtra",
     "Select a comparator" : "Izbor primerjalnika",
     "Select a file type" : "Izbor vrste datoteke",

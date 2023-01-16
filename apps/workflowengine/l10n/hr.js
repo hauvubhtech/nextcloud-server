@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Provjera #%s ne postoji",
     "Check %s is invalid or does not exist" : "Provjera %s nije važeća ili ne postoji",
     "Flow" : "Tijek",
-    "Nextcloud workflow engine" : "Upravljački program tijeka rada xD Drive",
+    "xD Drive workflow engine" : "Upravljački program tijeka rada xD Drive",
     "Select a filter" : "Odaberi filtar",
     "Select a comparator" : "Odaberi usporednik",
     "Select a file type" : "Odaberi vrstu datoteke",

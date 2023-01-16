@@ -43,7 +43,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Проверите да ли #%s постоји",
     "Check %s is invalid or does not exist" : "Проверите да ли је %s неисправно или не постоји",
     "Flow" : "Ток",
-    "Nextcloud workflow engine" : "Некстклаудов мотор радног тока",
+    "xD Drive workflow engine" : "Некстклаудов мотор радног тока",
     "Select a filter" : "Одаберите филтер",
     "Select a comparator" : "Одаберите компаратор",
     "Select a file type" : "Одаберите тип фајла",

@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "检查 #%s 不存在",
     "Check %s is invalid or does not exist" : "检查%s是不可用或者不存在",
     "Flow" : "流程",
-    "Nextcloud workflow engine" : "Nextcloud 工作流引擎",
+    "xD Drive workflow engine" : "xD Drive 工作流引擎",
     "Select a filter" : "选择一个过滤器",
     "Select a comparator" : "选择一个比较器",
     "Select a file type" : "选择一个文件类型",

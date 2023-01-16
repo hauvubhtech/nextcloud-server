@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Έλεγχος #%s δεν υπάρχει",
     "Check %s is invalid or does not exist" : "Έλεγχος %s δεν είναι έγκυρος ή δεν υπάρχει",
     "Flow" : "Flow",
-    "Nextcloud workflow engine" : "Σύστημα ροής εργασιών Nextcloud",
+    "xD Drive workflow engine" : "Σύστημα ροής εργασιών xD Drive",
     "Select a filter" : "Επιλογή φίλτρου",
     "Select a comparator" : "Επιλέξτε για σύγκριση",
     "Select a file type" : "Επιλέξτε τύπο αρχείου",

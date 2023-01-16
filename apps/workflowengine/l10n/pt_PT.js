@@ -34,7 +34,7 @@ OC.L10N.register(
     "No events are chosen." : "Não são escolhidos eventos.",
     "Entity %s has no event %s" : "Entidade %s não tem evento %s",
     "Flow" : "Fluxo",
-    "Nextcloud workflow engine" : "Motor de fluxo de trabalho da Nextcloud",
+    "xD Drive workflow engine" : "Motor de fluxo de trabalho da xD Drive",
     "Select a filter" : "Selecionar um filtro",
     "Select a comparator" : "Selecionar um comparador",
     "Folder" : "Pasta",

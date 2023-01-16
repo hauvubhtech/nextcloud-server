@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Kontrola #%s neexistuje",
     "Check %s is invalid or does not exist" : "Kontrola %s je neplatná alebo neexistuje",
     "Flow" : "Flow (tok)",
-    "Nextcloud workflow engine" : "Služba Nextcloud pre pracovné postupy",
+    "xD Drive workflow engine" : "Služba xD Drive pre pracovné postupy",
     "Select a filter" : "Vybrať filter",
     "Select a comparator" : "Vybrať porovnávač",
     "Select a file type" : "Vyberte typ súboru",

@@ -43,7 +43,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Kontroll av #%s existerar inte",
     "Check %s is invalid or does not exist" : "Kontroll av %s är ogiltig eller existerar inte",
     "Flow" : "Flöde",
-    "Nextcloud workflow engine" : "Nextcloud arbetsflödesmotor",
+    "xD Drive workflow engine" : "xD Drive arbetsflödesmotor",
     "Select a filter" : "Välj ett filter",
     "Select a comparator" : "Välj en jämförelse",
     "Select a file type" : "Välj en filtyp",
