@@ -117,7 +117,7 @@ OC.L10N.register(
     "Could not write file contents" : "A fájl tartalma nem írható",
     "_%n byte_::_%n bytes_" : ["%n bájt","%n bájt"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "Hiba történt a fájl célhelyre másolása során (másolva: %1$s, várt fájlméret: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "A várt fájlméret %1$s, de %2$s lett beolvasva (a Nextcloud kliensből) és kiírva (a Nextcloud tárolóba). Ez lehet hálózati probléma a fájl küldése során, vagy írási hiba a tárolónál, a kiszolgáló oldalon.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "A várt fájlméret %1$s, de %2$s lett beolvasva (a xD Drive kliensből) és kiírva (a xD Drive tárolóba). Ez lehet hálózati probléma a fájl küldése során, vagy írási hiba a tárolónál, a kiszolgáló oldalon.",
     "Could not rename part file to final file, canceled by hook" : "A részleges fájl nem nevezhető át a végleges fájllá, a hurok megszakította",
     "Could not rename part file to final file" : "A részleges fájl nem nevezhető át a végleges fájllá",
     "Failed to check file size: %1$s" : "A fájlméret nem ellenőrizhető: %1$s",

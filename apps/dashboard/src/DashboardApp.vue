@@ -75,7 +75,7 @@
 
 				<h3>{{ t('dashboard', 'Weather service') }}</h3>
 				<p>
-					{{ t('dashboard', 'For your privacy, the weather data is requested by your Nextcloud server on your behalf so the weather service receives no personal information.') }}
+					{{ t('dashboard', 'For your privacy, the weather data is requested by your xD Drive server on your behalf so the weather service receives no personal information.') }}
 				</p>
 				<p class="credits--end">
 					<a href="https://api.met.no/doc/TermsOfService" target="_blank" rel="noopener">{{ t('dashboard', 'Weather data from Met.no') }}</a>,

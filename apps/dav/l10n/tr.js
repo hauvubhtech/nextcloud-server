@@ -117,7 +117,7 @@ OC.L10N.register(
     "Could not write file contents" : "Dosya içerikleri yazılamadı",
     "_%n byte_::_%n bytes_" : ["%n bayt","%n bayt"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "Dosya hedef konuma kopyalanırken sorun çıktı (Kopyalanan: %1$s, Beklenen dosya boyutu: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "%1$s dosya boyutu bekleniyordu, ancak %2$s okundu (Nextcloud istemcisinden) ve yazıldı (Nextcloud depolamasına). Gönderici tarafında bir ağ sorunu veya sunucu tarafında depolamaya yazma sorunu olabilir.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "%1$s dosya boyutu bekleniyordu, ancak %2$s okundu (xD Drive istemcisinden) ve yazıldı (xD Drive depolamasına). Gönderici tarafında bir ağ sorunu veya sunucu tarafında depolamaya yazma sorunu olabilir.",
     "Could not rename part file to final file, canceled by hook" : "Parça dosyası sonuç dosyası olarak yeniden adlandırılamadı, bağlantı tarafından iptal edildi",
     "Could not rename part file to final file" : "Parça dosyası sonuç dosyası olarak yeniden adlandırılamadı",
     "Failed to check file size: %1$s" : "Dosya boyutu denetlenemedi: %1$s",

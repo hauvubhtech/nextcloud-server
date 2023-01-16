@@ -115,7 +115,7 @@
     "Could not write file contents" : "파일 내용을 쓸 수 없음",
     "_%n byte_::_%n bytes_" : ["%n 바이트"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "파일을 대상 위치로 복사하는 동안 오류 발생 (복사됨: %1$s, 예상 파일 크기: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "예상 파일 크기는 %1$s이지만 읽고(Nextcloud 클라이언트에서) 및 쓴(Nextcloud 스토리지로) 크기는 %2$s입니다. 보내는 쪽의 네트워크 문제이거나 서버 쪽의 저장소에 쓰는 데 문제가 있을 수 있습니다.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "예상 파일 크기는 %1$s이지만 읽고(xD Drive 클라이언트에서) 및 쓴(xD Drive 스토리지로) 크기는 %2$s입니다. 보내는 쪽의 네트워크 문제이거나 서버 쪽의 저장소에 쓰는 데 문제가 있을 수 있습니다.",
     "Could not rename part file to final file, canceled by hook" : "후크에 의해 취소되어 부분 파일의 이름을 최종 파일로 바꿀 수 없음",
     "Could not rename part file to final file" : "부분 파일의 이름을 최종 파일로 바꿀 수 없음",
     "Failed to check file size: %1$s" : "파일 크기 확인 실패: %1$s",

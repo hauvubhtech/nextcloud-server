@@ -296,7 +296,7 @@ class File extends Node implements IFile {
 				if ($count !== $expected) {
 					throw new BadRequest(
 						$this->l10n->t(
-							'Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side.',
+							'Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side.',
 							[
 								$this->l10n->n('%n byte', '%n bytes', $expected),
 								$this->l10n->n('%n byte', '%n bytes', $count),
@@ -592,7 +592,7 @@ class File extends Node implements IFile {
 					$chunk_handler->remove($info['index']);
 					throw new BadRequest(
 						$this->l10n->t(
-							'Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side.',
+							'Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side.',
 							[
 								$this->l10n->n('%n byte', '%n bytes', $expected),
 								$this->l10n->n('%n byte', '%n bytes', $bytesWritten),

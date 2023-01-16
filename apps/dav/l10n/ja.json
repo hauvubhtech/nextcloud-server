@@ -100,7 +100,7 @@
     "Could not write file contents" : "ファイルの内容を書き込むことができませんでした",
     "_%n byte_::_%n bytes_" : ["%n bytes"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "ファイルをコピー先へコピー中にエラーが発生しました (コピー済: %1$s, 想定ファイルサイズ: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Nextcloudクライアントからの想定ファイルサイズは、%1$s ですが、Nextcloudストレージへの書き込みファイルサイズは %2$s でした。送信側のネットワークの問題またはサーバー側のストレージへの書き込みに問題がある可能性があります。",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "xD Driveクライアントからの想定ファイルサイズは、%1$s ですが、xD Driveストレージへの書き込みファイルサイズは %2$s でした。送信側のネットワークの問題またはサーバー側のストレージへの書き込みに問題がある可能性があります。",
     "Could not rename part file to final file, canceled by hook" : "最終ファイルの名前の変更が出来なかったため、フックによりキャンセルされました",
     "Could not rename part file to final file" : "最終ファイルの名前の変更が出来ませんでした",
     "Failed to check file size: %1$s" : "ファイルサイズの確認に失敗: %1$s",

@@ -117,7 +117,7 @@ OC.L10N.register(
     "Could not write file contents" : "無法寫入檔案內容",
     "_%n byte_::_%n bytes_" : ["%n 位元組"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "將檔案複製到目標位置時發生錯誤（已複製：%1$s，預期的檔案大小：%2$s）",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "預期的檔案大小為 %1$s，但讀取（從 Nextcloud 客戶端）與寫入（至 Nextcloud 儲存空間）%2$s。可能是傳送端的網路問題或是伺服器端的儲存空間寫入問題。",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "預期的檔案大小為 %1$s，但讀取（從 xD Drive 客戶端）與寫入（至 xD Drive 儲存空間）%2$s。可能是傳送端的網路問題或是伺服器端的儲存空間寫入問題。",
     "Could not rename part file to final file, canceled by hook" : "無法將部份檔案重新命名為最終檔案，被掛勾取消",
     "Could not rename part file to final file" : "無法將部份檔案重新命名為最終檔案",
     "Failed to check file size: %1$s" : "檢查檔案大小失敗：%1$s",

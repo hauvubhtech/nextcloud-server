@@ -115,7 +115,7 @@
     "Could not write file contents" : "Съдържанието на файла не можа да се запише",
     "_%n byte_::_%n bytes_" : ["%n  байта","%n байта"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "Грешка при копирането на файла в целево местоположение (копирано: %1$s, очакван размер на файла: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Очакван размер на файл от %1$s, но прочетени (от Nextcloud клиент) и записани (в хранилище на Nextcloud) %2$s. Това може да бъде, както мрежов проблем от страна на изпращача, така и проблем със записването в хранилище от страна на сървъра.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Очакван размер на файл от %1$s, но прочетени (от xD Drive клиент) и записани (в хранилище на xD Drive) %2$s. Това може да бъде, както мрежов проблем от страна на изпращача, така и проблем със записването в хранилище от страна на сървъра.",
     "Could not rename part file to final file, canceled by hook" : "Не можа да се преименува частичен файл в краен файл, анулиран е от кука",
     "Could not rename part file to final file" : "Не можа да се преименува частичен файл в краен файл",
     "Failed to check file size: %1$s" : "Неуспешна проверка на размера на файла: %1$s",

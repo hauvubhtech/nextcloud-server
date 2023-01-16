@@ -117,7 +117,7 @@ OC.L10N.register(
     "Could not write file contents" : "No se han podido escribir los contenidos del archivo",
     "_%n byte_::_%n bytes_" : ["%n byte","%n bytes","%n bytes"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "Error al copiar el archivo al destino (copiado: %1$s, tamaño esperado: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Se esperaba un tamaño de archivo de %1$s pero se leyó (desde el cliente Nextcloud) y se escribió (en el almacenamiento Nextcloud) %2$s. Podría ser un problema de red en el lado del envío o un problema de escritura en el almacenamiento en el lado del servidor.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Se esperaba un tamaño de archivo de %1$s pero se leyó (desde el cliente xD Drive) y se escribió (en el almacenamiento xD Drive) %2$s. Podría ser un problema de red en el lado del envío o un problema de escritura en el almacenamiento en el lado del servidor.",
     "Could not rename part file to final file, canceled by hook" : "No se pudo escribir en el archivo final, cancelado por el sistema.",
     "Could not rename part file to final file" : "No se ha podido renombrar el archivo parcial como el archivo final",
     "Failed to check file size: %1$s" : "Fallo al comprobar el tamaño del archivo: %1$s",

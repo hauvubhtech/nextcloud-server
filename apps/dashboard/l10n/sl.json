@@ -4,7 +4,7 @@
     "Customize" : "Prilagodi",
     "Edit widgets" : "Izbor gradnikov",
     "Weather service" : "Vremenske storitve",
-    "For your privacy, the weather data is requested by your Nextcloud server on your behalf so the weather service receives no personal information." : "Za večjo zasebnost so podatki vremena pridobljeni prek strežnika Nextcloud, zato tretje osebe ne pridobijo nobenega vašega osebnega podatka.",
+    "For your privacy, the weather data is requested by your xD Drive server on your behalf so the weather service receives no personal information." : "Za večjo zasebnost so podatki vremena pridobljeni prek strežnika xD Drive, zato tretje osebe ne pridobijo nobenega vašega osebnega podatka.",
     "Weather data from Met.no" : "Podatke vremena omogoča Met.no",
     "geocoding with Nominatim" : "geokodiranje Nominatim",
     "elevation data from OpenTopoData" : "podatke nadmorske višine OpenTopoData",

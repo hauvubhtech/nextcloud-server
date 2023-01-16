@@ -7,7 +7,7 @@ OC.L10N.register(
     "Edit widgets" : "编辑小部件",
     "Get more widgets from the App Store" : "从应用商店获取更多小部件",
     "Weather service" : "天气服务",
-    "For your privacy, the weather data is requested by your Nextcloud server on your behalf so the weather service receives no personal information." : "为了您的隐私，天气数据由您的 Nextcloud 服务器为您获取，这样天气服务就无法获得您的个人信息。",
+    "For your privacy, the weather data is requested by your xD Drive server on your behalf so the weather service receives no personal information." : "为了您的隐私，天气数据由您的 xD Drive 服务器为您获取，这样天气服务就无法获得您的个人信息。",
     "Weather data from Met.no" : "天气数据获取自 Met.no",
     "geocoding with Nominatim" : "使用 Nominatim 地理编码",
     "elevation data from OpenTopoData" : "海拔数据获取自 OpenTopoData",

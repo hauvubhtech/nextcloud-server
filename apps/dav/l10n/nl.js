@@ -106,7 +106,7 @@ OC.L10N.register(
     "You updated contact {card} in address book {addressbook}" : "Je wijzigde contact {card} in adresboek {addressbook}",
     "A <strong>contact</strong> or <strong>address book</strong> was modified" : "Een <strong>contact</strong> uit adresboek </strong> is gewijzigd",
     "_%n byte_::_%n bytes_" : ["%n byte","%n bytes"],
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Verwachte bestandsgrootte van %1$s maar gelezen (van Nextcloud-client) en geschreven (naar Nextcloud-opslag) %2$s. Dit kan een netwerkprobleem zijn aan de verzendende kant of een probleem met het schrijven naar de opslag aan de serverkant.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "Verwachte bestandsgrootte van %1$s maar gelezen (van xD Drive-client) en geschreven (naar xD Drive-opslag) %2$s. Dit kan een netwerkprobleem zijn aan de verzendende kant of een probleem met het schrijven naar de opslag aan de serverkant.",
     "Could not rename part file to final file, canceled by hook" : "Kon bestandsdeel niet hernoemen naar definitief bestand, geannuleerd door hook",
     "Could not rename part file to final file" : "Kon bestandsdeel niet hernoemen naar definitief bestand",
     "Failed to check file size: %1$s" : "Kon bestandsomvang niet controleren: %1$s",

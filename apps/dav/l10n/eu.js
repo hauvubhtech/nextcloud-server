@@ -117,7 +117,7 @@ OC.L10N.register(
     "Could not write file contents" : "Ezin izan dira fitxategiaren edukiak idatzi",
     "_%n byte_::_%n bytes_" : ["Byte %n","%n byte"],
     "Error while copying file to target location (copied: %1$s, expected filesize: %2$s)" : "Errore bat gertatu da fitxategia helburuko kokapenera kopiatzean (kopiatua: %1$s, espero den fitxategiaren tamaina: %2$s)",
-    "Expected filesize of %1$s but read (from Nextcloud client) and wrote (to Nextcloud storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "%1$sfitxategi-tamaina espero zen baina irakurri (Nextcloud bezerotik) eta idatzita (Nextcloud biltegian) %2$s. Bidaltzailearen aldean sareko arazo bat izan daiteke edo zerbitzariaren biltegian idazteko arazo bat izan daiteke.",
+    "Expected filesize of %1$s but read (from xD Drive client) and wrote (to xD Drive storage) %2$s. Could either be a network problem on the sending side or a problem writing to the storage on the server side." : "%1$sfitxategi-tamaina espero zen baina irakurri (xD Drive bezerotik) eta idatzita (xD Drive biltegian) %2$s. Bidaltzailearen aldean sareko arazo bat izan daiteke edo zerbitzariaren biltegian idazteko arazo bat izan daiteke.",
     "Could not rename part file to final file, canceled by hook" : "Ezin izan da zati-fitxategiaren izena aldatu azken fitxategira, kakoaren bidez bertan behera utzi da",
     "Could not rename part file to final file" : "Ezin izan da zatiaren fitxategia azken fitxategira aldatu",
     "Failed to check file size: %1$s" : "Ezin izan da egiaztatu fitxategiaren tamaina:%1$s",
