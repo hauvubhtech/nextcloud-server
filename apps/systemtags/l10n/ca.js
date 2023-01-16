@@ -47,7 +47,7 @@ OC.L10N.register(
     "tagged %s" : "etiquetat %s",
     "Collaborative tags" : "Etiquetes col·laboratives",
     "Collaborative tagging functionality which shares tags among users." : "Funcionalitat d'etiquetatge col·laboratiu que permet compartir etiquetes entre usuaris.",
-    "Collaborative tagging functionality which shares tags among users. Great for teams.\n\t(If you are a provider with a multi-tenancy installation, it is advised to deactivate this app as tags are shared.)" : "Funcionalitat d'etiquetatge col·laboratiu que permet compartir etiquetes entre usuaris. Genial per a equips.\n\t(Si sou un proveïdor emprant una instància de Nextcloud per a múltiples clients, s'aconsella desactivar aquesta aplicació perquè les etiquetes són compartides amb tots.)",
+    "Collaborative tagging functionality which shares tags among users. Great for teams.\n\t(If you are a provider with a multi-tenancy installation, it is advised to deactivate this app as tags are shared.)" : "Funcionalitat d'etiquetatge col·laboratiu que permet compartir etiquetes entre usuaris. Genial per a equips.\n\t(Si sou un proveïdor emprant una instància de xD Drive per a múltiples clients, s'aconsella desactivar aquesta aplicació perquè les etiquetes són compartides amb tots.)",
     "Tagged files" : "Fitxers marcats",
     "Select tags to filter by" : "Selecciona les marques per filtrar-ne",
     "No tags found" : "No s'han trobat etiquetes",
