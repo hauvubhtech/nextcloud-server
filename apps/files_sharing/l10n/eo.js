@@ -98,7 +98,7 @@ OC.L10N.register(
     "Public link sharing is disabled by the administrator" : "Kunhavigon per publika ligilo malebligis la administranto",
     "Public upload disabled by the administrator" : "Publikan alŝuton malebligis la administranto",
     "Public upload is only possible for publicly shared folders" : "Publika alŝuto eblas nur por publike kunhavigitaj dosierujoj",
-    "Sharing %s sending the password by xD Drive Talk failed because xD Drive Talk is not enabled" : "Kunhavigo de %s per sendado de la pasvorto per „Nextcloud Talk“ malsukcesis, ĉar xD Drive Talk ne estas ebligita.",
+    "Sharing %s sending the password by xD Drive Talk failed because xD Drive Talk is not enabled" : "Kunhavigo de %s per sendado de la pasvorto per „xD Drive Talk“ malsukcesis, ĉar xD Drive Talk ne estas ebligita.",
     "Invalid date, date format must be YYYY-MM-DD" : "Nevalida dato; datoformo estu JJJJ-MM-TT",
     "Sharing %1$s failed because the back end does not allow shares from type %2$s" : "Kunhavigo de %1$s malsukcesis, ĉar la servilo ne permesas kunhavon de tipo %2$s",
     "You cannot share to a Circle if the app is not enabled" : "Vi ne povas kunhavigi per Rondo, se la aplikaĵo „Rondo“ ne estas ebligita",

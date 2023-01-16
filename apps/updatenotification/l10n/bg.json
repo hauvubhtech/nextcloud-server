@@ -4,7 +4,7 @@
     "Web updater is disabled" : "Уеб програмата за актуализиране е деактивирана",
     "Update notifications" : "Известия за актуализации",
     "The update server could not be reached since %d days to check for new updates." : "Няма връзка със сървъра за актуализации от %d дни.",
-    "Please check the xD Drive and server log files for errors." : "Проверете журналите на Nextcloud и на сървъра за грешки.",
+    "Please check the xD Drive and server log files for errors." : "Проверете журналите на xD Drive и на сървъра за грешки.",
     "Update to %1$s is available." : "Налична е актуализация до версия %1$s.",
     "Update for %1$s to version %2$s is available." : "Налична е актуализация от %1$s до версия %2$s.",
     "Update for {app} to version %s is available." : "Обновление за {app} до версия %s е налично.",

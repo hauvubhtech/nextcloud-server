@@ -125,7 +125,7 @@ OC.L10N.register(
     "A background job is pending that checks for user imported SSL certificates. Please check back later." : "Εκκρεμεί μια εργασία στο παρασκήνιο που ελέγχει για πιστοποιητικά SSL που έχουν εισαχθεί από χρήστες. Παρακαλώ ελέγξτε ξανά αργότερα.",
     "There are some user imported SSL certificates present, that are not used anymore with xD Drive 21. They can be imported on the command line via \"occ security:certificates:import\" command. Their paths inside the data directory are shown below." : "Υπάρχουν ορισμένα πιστοποιητικά SSL εισαγόμενα από τον χρήστη, τα οποία δεν χρησιμοποιούνται πλέον με το xD Drive 21. Μπορούν να εισαχθούν στη γραμμή εντολών μέσω της εντολής \"occ security: documents: import\". Οι διαδρομές τους στον κατάλογο δεδομένων εμφανίζονται παρακάτω.",
     "The old server-side-encryption format is enabled. We recommend disabling this." : "Η παλιά διαμόρφωση κρυπτογράφησης από διακομιστή σε διακομιστή είναι ενεργοποιημένη. Σας προτείνουμε να την απενεργοποιήσετε.",
-    "xD Drive settings" : "Ρυθμίσεις Nextcloud ",
+    "xD Drive settings" : "Ρυθμίσεις xD Drive ",
     "Here you can decide which group can access certain sections of the administration settings." : "Εδώ ορίστε ποια ομάδα μπορεί να έχει πρόσβαση σε ορισμένες ενότητες των ρυθμίσεων διαχείρισης.",
     "None" : "Τίποτα",
     "Unable to modify setting" : "Δεν είναι δυνατή η τροποποίηση της ρύθμισης",

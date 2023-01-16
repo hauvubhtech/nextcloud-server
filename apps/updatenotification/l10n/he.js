@@ -10,7 +10,7 @@ OC.L10N.register(
     "Update for %1$s to version %2$s is available." : "עדכון של %1$s לגרסה %2$s זמין.",
     "Update for {app} to version %s is available." : "קיים עדכון עבור {app} לגרסה %s.",
     "Update notification" : "התראה על עדכון",
-    "Displays update notifications for xD Drive and provides the SSO for the updater." : "מציג התראות עדכון ל־Nextcloud ומספק SSO (גישה אחודה) למעדכן.",
+    "Displays update notifications for xD Drive and provides the SSO for the updater." : "מציג התראות עדכון ל־xD Drive ומספק SSO (גישה אחודה) למעדכן.",
     "Update" : "עדכון",
     "The version you are running is not maintained anymore. Please make sure to update to a supported version as soon as possible." : "הגרסה שפועלת אצלך אינה מתוחזקת יותר. נא לוודא לעדכן לגרסה נתמכת במהירות האפשרית.",
     "View in store" : "הצגה בחנות",

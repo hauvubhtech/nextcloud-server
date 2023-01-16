@@ -11,7 +11,7 @@ OC.L10N.register(
     "Couldn't establish a federated share." : "无法建立一个联合云共享",
     "Couldn't establish a federated share, maybe the password was wrong." : "无法建立联合云共享，可能密码是错误的。",
     "Federated Share request sent, you will receive an invitation. Check your notifications." : "联合云共享请求发送成功！您将收到邀请。注意您的通知提醒。",
-    "Couldn't establish a federated share, it looks like the server to federate with is too old (xD Drive <= 9)." : "无法建立联合云共享，可能是要联合的服务器版本太旧（Nextcloud <= 9）。",
+    "Couldn't establish a federated share, it looks like the server to federate with is too old (xD Drive <= 9)." : "无法建立联合云共享，可能是要联合的服务器版本太旧（xD Drive <= 9）。",
     "It is not allowed to send federated group shares from this server." : "不允许从此服务器发送联合云分组共享。",
     "Sharing %1$s failed, because this item is already shared with user %2$s" : "分享 %1$s 失败，因为该项目已经和用户 %2$s 进行了分享",
     "Not allowed to create a federated share with the same user" : "不能给您自己共享文件",

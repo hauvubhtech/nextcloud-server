@@ -121,7 +121,7 @@ OC.L10N.register(
     "Storage type" : "סוג אחסון",
     "Scope" : "היקף",
     "Open documentation" : "פתיחת תיעוד",
-    "External storage enables you to mount external storage services and devices as secondary xD Drive storage devices. You may also allow users to mount their own external storage services." : "אחסון חיצוני מאפשר לך לעגן שירותי אחסון והתקנים כהתקני אחסון משניים ב־Nextcloud. ישנה גם אפשרות לאפשר למשתמשים לעגן שירותי אחסון חיצוניים משלהם.",
+    "External storage enables you to mount external storage services and devices as secondary xD Drive storage devices. You may also allow users to mount their own external storage services." : "אחסון חיצוני מאפשר לך לעגן שירותי אחסון והתקנים כהתקני אחסון משניים ב־xD Drive. ישנה גם אפשרות לאפשר למשתמשים לעגן שירותי אחסון חיצוניים משלהם.",
     "Folder name" : "שם התיקייה",
     "Authentication" : "אימות",
     "Configuration" : "הגדרות",

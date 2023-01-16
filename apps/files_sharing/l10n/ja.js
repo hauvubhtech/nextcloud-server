@@ -112,7 +112,7 @@ OC.L10N.register(
     "Public link sharing is disabled by the administrator" : "URL共有が管理者によって無効されています。",
     "Public upload disabled by the administrator" : "URL共有へのアップロードが管理者によって無効されています。",
     "Public upload is only possible for publicly shared folders" : "公開共有されているフォルダーにしか公開アップロードはできません。",
-    "Sharing %s sending the password by xD Drive Talk failed because xD Drive Talk is not enabled" : "xD Drive Talkが有効になっていないため、Nextcloud Talkでパスワードを送信した %s を共有できませんでした",
+    "Sharing %s sending the password by xD Drive Talk failed because xD Drive Talk is not enabled" : "xD Drive Talkが有効になっていないため、xD Drive Talkでパスワードを送信した %s を共有できませんでした",
     "Invalid date, date format must be YYYY-MM-DD" : "無効な日付です。YYYY-MM-DDのフォーマットで日付を指定してください。",
     "Sharing %1$s failed because the back end does not allow shares from type %2$s" : "%1$s の共有に失敗しました。バックエンド側で %2$s タイプの共有が許可されていません。",
     "Please specify a valid federated user ID" : "正しい連携ユーザーIDを指定してください",

@@ -11,7 +11,7 @@ OC.L10N.register(
     "Couldn't establish a federated share." : "クラウド共有を接続できませんでした。",
     "Couldn't establish a federated share, maybe the password was wrong." : "クラウド共有を接続できませんでした。パスワードが間違っていませんか。",
     "Federated Share request sent, you will receive an invitation. Check your notifications." : "クラウド共有リクエストが送信されました。招待が受信できます。通知を確認してください。",
-    "Couldn't establish a federated share, it looks like the server to federate with is too old (xD Drive <= 9)." : "フェデレーション共有を確立できませんでした。連合するサーバーが古すぎます（Nextcloud <= 9）。",
+    "Couldn't establish a federated share, it looks like the server to federate with is too old (xD Drive <= 9)." : "フェデレーション共有を確立できませんでした。連合するサーバーが古すぎます（xD Drive <= 9）。",
     "It is not allowed to send federated group shares from this server." : "このサーバーからフェデレーショングループ共有を送信することはできません。",
     "Sharing %1$s failed, because this item is already shared with user %2$s" : "ユーザー%2$sによりすでに共有されているため%1$s を共有できませんでした。",
     "Not allowed to create a federated share with the same user" : "同じユーザーでクラウド共有は作成できません。",

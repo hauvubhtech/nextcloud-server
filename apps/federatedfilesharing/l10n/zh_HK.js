@@ -11,7 +11,7 @@ OC.L10N.register(
     "Couldn't establish a federated share." : "無法建立聯盟式分享",
     "Couldn't establish a federated share, maybe the password was wrong." : "無法建立聯盟式分享，可能是密碼錯誤。",
     "Federated Share request sent, you will receive an invitation. Check your notifications." : "聯合雲分享 請求發送成功！您將收到邀請。注意您的通知提醒。",
-    "Couldn't establish a federated share, it looks like the server to federate with is too old (xD Drive <= 9)." : "無法建立聯合雲分享 ，可能是要聯合的伺服器版本太舊（Nextcloud <= 9）。",
+    "Couldn't establish a federated share, it looks like the server to federate with is too old (xD Drive <= 9)." : "無法建立聯合雲分享 ，可能是要聯合的伺服器版本太舊（xD Drive <= 9）。",
     "It is not allowed to send federated group shares from this server." : "不允許從此伺服器發送聯盟式群組分享 。",
     "Sharing %1$s failed, because this item is already shared with user %2$s" : "分享 %1$s 失敗，此項目已經與用戶 %2$s 分享",
     "Not allowed to create a federated share with the same user" : "不允許與同一個用戶建立聯盟式分享",
