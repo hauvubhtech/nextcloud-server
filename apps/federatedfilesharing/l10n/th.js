@@ -26,7 +26,7 @@ OC.L10N.register(
     "Open documentation" : "เปิดเอกสาร",
     "Your Federated Cloud ID:" : "ไอดีคลาวด์ของคุณ:",
     "Add to your website" : "เพิ่มไปยังเว็บไซต์",
-    "Share with me via Nextcloud" : "แชร์กับฉันผ่าน Nextcloud",
+    "Share with me via xD Drive" : "แชร์กับฉันผ่าน xD Drive",
     "HTML Code:" : "โค้ด HTML:"
 },
 "nplurals=1; plural=0;");

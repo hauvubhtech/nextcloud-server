@@ -32,7 +32,7 @@ OC.L10N.register(
     "Share it so your friends can share files with you:" : "Del den slik at venner kan dele filer med deg:",
     "Twitter" : "Twitter",
     "Add to your website" : "Legg på nettsiden din",
-    "Share with me via Nextcloud" : "Del med meg via Nextcloud",
+    "Share with me via xD Drive" : "Del med meg via xD Drive",
     "HTML Code:" : "HTML-kode:",
     "Copy to clipboard" : "Kopiert til utklippstavlen",
     "Copy" : "Kopier",

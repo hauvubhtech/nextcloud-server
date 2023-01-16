@@ -34,7 +34,7 @@ OC.L10N.register(
     "Terms of service" : "Kasutustingimused",
     "No compatible server found at {remote}" : "Aadressil {remote} ei leitud ühilduvat serverit",
     "Invalid server URL" : "Vigane serveri URL",
-    "Failed to add the public link to your Nextcloud" : "Avaliku lingi lisamine sinu Nextcloudi ebaõnnestus",
+    "Failed to add the public link to your xD Drive" : "Avaliku lingi lisamine sinu xD Drive ebaõnnestus",
     "No expiration date set" : "Aegumise kuupäeva pole määratud",
     "Shared by" : "Jagas",
     "File shares" : "Jagatud failid",
@@ -170,7 +170,7 @@ OC.L10N.register(
     "Note" : "Märge",
     "Select or drop files" : "Vali või lohista failid",
     "Uploaded files:" : "Üleslaetud failid:",
-    "Add to your Nextcloud" : "Lisa oma Nextcloudi",
+    "Add to your xD Drive" : "Lisa oma xD Drive",
     "Wrong share ID, share doesn't exist" : "Vale jagamise ID, sellist jagamist ei eksisteeri",
     "Wrong path, file/folder doesn't exist" : "Vale rada, faili/kausta ei leitud",
     "Sorry, this link doesn’t seem to work anymore." : "Vabandust, see link ei tundu enam toimivat."

@@ -97,7 +97,7 @@ OC.L10N.register(
     "Secure ftps://" : "Salattu ftps://",
     "Local" : "Paikallinen",
     "Location" : "Sijainti",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Juurihakemisto",
     "SFTP with secret key login" : "SFTP salaisen avaimen kirjautumisella",

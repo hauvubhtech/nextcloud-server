@@ -23,7 +23,7 @@ OC.L10N.register(
     "Your Federated Cloud ID:" : "מספר זיהוי הענן המאוגד שלך:",
     "Twitter" : "טוויטר",
     "Add to your website" : "הוספה לאתר האינטרנט שלך",
-    "Share with me via Nextcloud" : "שיתוף איתי באמצעות Nextcloud",
+    "Share with me via xD Drive" : "שיתוף איתי באמצעות xD Drive",
     "HTML Code:" : "קוד HTML:",
     "Copy to clipboard" : "העתקה ללוח הגזירים",
     "Copy" : "העתק",

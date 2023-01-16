@@ -31,7 +31,7 @@ OC.L10N.register(
     "Share it so your friends can share files with you:" : "Compártelo para que tus amigos puedan compartir archivos contigo:",
     "Twitter" : "Twitter",
     "Add to your website" : "Agregar a tu sitio web",
-    "Share with me via Nextcloud" : "Compartir conmigo vía Nextcloud",
+    "Share with me via xD Drive" : "Compartir conmigo vía xD Drive",
     "HTML Code:" : "Código HTML:",
     "Copy to clipboard" : "Copiar al portapapeles",
     "Copy" : "Copiar",

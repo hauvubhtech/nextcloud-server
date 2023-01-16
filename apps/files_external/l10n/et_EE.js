@@ -65,7 +65,7 @@ OC.L10N.register(
     "Secure ftps://" : "Turvaline ftps://",
     "Local" : "Kohalik",
     "Location" : "Asukoht",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Juur",
     "SFTP with secret key login" : "SFTP koos salajase võtmega logimisega",

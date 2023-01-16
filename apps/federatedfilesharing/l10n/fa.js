@@ -24,7 +24,7 @@ OC.L10N.register(
     "Twitter" : "توییتر",
     "Diaspora" : "دیازپورا",
     "Add to your website" : "افزودن به پایگاه وبتان",
-    "Share with me via Nextcloud" : "هم‌رسانی با من روی نسکت‌کلود",
+    "Share with me via xD Drive" : "هم‌رسانی با من روی نسکت‌کلود",
     "HTML Code:" : "کد HTML :",
     "Copy to clipboard" : "رونوشت به تخته‌گیره",
     "Clipboard is not available" : "تخته گیره موحود نیست",

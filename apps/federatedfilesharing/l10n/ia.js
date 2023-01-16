@@ -28,7 +28,7 @@ OC.L10N.register(
     "Your Federated Cloud ID:" : "Tu ID de Nube Federate:",
     "Twitter" : "Twitter",
     "Add to your website" : "Adde a tu sito web",
-    "Share with me via Nextcloud" : "Comparti con me via Nextcloud",
+    "Share with me via xD Drive" : "Comparti con me via xD Drive",
     "HTML Code:" : "Codice HTML:",
     "Copy" : "Copiar",
     "Copied!" : "Copiate!",

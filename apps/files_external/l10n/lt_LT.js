@@ -93,7 +93,7 @@ OC.L10N.register(
     "Secure ftps://" : "Saugus ftps://",
     "Local" : "Vietinis",
     "Location" : "Vieta",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Šaknis",
     "SFTP with secret key login" : "SFTP protokolas su prisijungimu",

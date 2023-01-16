@@ -35,7 +35,7 @@ class OwnCloud extends Backend {
 			->setIdentifier('owncloud')
 			->addIdentifierAlias('\OC\Files\Storage\OwnCloud') // legacy compat
 			->setStorageClass('\OCA\Files_External\Lib\Storage\OwnCloud')
-			->setText($l->t('Nextcloud'))
+			->setText($l->t('xD Drive'))
 			->addParameters([
 				new DefinitionParameter('host', $l->t('URL')),
 				(new DefinitionParameter('root', $l->t('Remote subfolder')))

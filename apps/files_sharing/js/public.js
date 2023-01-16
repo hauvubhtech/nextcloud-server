@@ -489,7 +489,7 @@ OCA.Sharing.PublicApp = {
 		).fail(
 			function (jqXHR) {
 				OC.dialogs.alert(JSON.parse(jqXHR.responseText).message,
-					t('files_sharing', 'Failed to add the public link to your Nextcloud'));
+					t('files_sharing', 'Failed to add the public link to your xD Drive'));
 				self._toggleLoading();
 			}
 		);

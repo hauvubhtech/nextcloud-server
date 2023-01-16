@@ -27,7 +27,7 @@ OC.L10N.register(
     "Open documentation" : "Deschide documentația",
     "Your Federated Cloud ID:" : "ID Cloud federalizat:",
     "Add to your website" : "Adaugă la site-ul tău Web",
-    "Share with me via Nextcloud" : "Partajează cu mine via Nextcloud",
+    "Share with me via xD Drive" : "Partajează cu mine via xD Drive",
     "HTML Code:" : "Cod HTML:"
 },
 "nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));");

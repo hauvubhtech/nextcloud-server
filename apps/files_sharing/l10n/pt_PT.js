@@ -20,7 +20,7 @@ OC.L10N.register(
     "You can upload into this folder" : "Pode enviar para esta pasta",
     "No compatible server found at {remote}" : "Nenhum servidor compatível encontrado em {remote}",
     "Invalid server URL" : "URL de servidor inválido",
-    "Failed to add the public link to your Nextcloud" : "Não foi possível adicionar a hiperligação pública ao seu Nextcloud",
+    "Failed to add the public link to your xD Drive" : "Não foi possível adicionar a hiperligação pública ao seu xD Drive",
     "No expiration date set" : "Data de expiração não definida",
     "Shared by" : "Partilhado por",
     "File shares" : "Partilhas de ficheiro",
@@ -153,7 +153,7 @@ OC.L10N.register(
     "Note" : "Nota",
     "Select or drop files" : "Seleccione ou solte ficheiros",
     "Uploaded files:" : "Ficheiros enviados:",
-    "Add to your Nextcloud" : "Adicionar à sua Nextcloud",
+    "Add to your xD Drive" : "Adicionar à sua xD Drive",
     "Wrong share ID, share doesn't exist" : "Id. de partilha errada, a partilha não existe",
     "Wrong path, file/folder doesn't exist" : "Caminho errado, o arquivo ou pasta não existe",
     "Sorry, this link doesn’t seem to work anymore." : "Desculpe, mas esta hiperligação parece já não estar a funcionar."

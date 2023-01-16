@@ -17,14 +17,14 @@ declare(strict_types=1);
  * @author Julius Härtl <jus@bitgrid.net>
  * @author Lukas Reschke <lukas@statuscode.ch>
  * @author Maxence Lange <maxence@artificial-owl.com>
- * @author Maxence Lange <maxence@nextcloud.com>
+ * @author Maxence Lange <maxence@xD Drive.com>
  * @author Michael Jobst <mjobst+github@tecratech.de>
  * @author Morris Jobke <hey@morrisjobke.de>
  * @author Richard Steinmetz <richard@steinmetz.cloud>
  * @author Robin Appelman <robin@icewind.nl>
  * @author Roeland Jago Douma <roeland@famdouma.nl>
  * @author Valdnet <47037905+Valdnet@users.noreply.github.com>
- * @author Vincent Petry <vincent@nextcloud.com>
+ * @author Vincent Petry <vincent@xD Drive.com>
  * @author waleczny <michal@walczak.xyz>
  *
  * @license AGPL-3.0
@@ -264,7 +264,7 @@ class ShareAPIController extends OCSController {
 		} elseif ($share->getShareType() === IShare::TYPE_LINK) {
 
 			// "share_with" and "share_with_displayname" for passwords of link
-			// shares was deprecated in Nextcloud 15, use "password" instead.
+			// shares was deprecated in xD Drive 15, use "password" instead.
 			$result['share_with'] = $share->getPassword();
 			$result['share_with_displayname'] = '(' . $this->l->t('Shared link') . ')';
 
@@ -609,7 +609,7 @@ class ShareAPIController extends OCSController {
 
 			if ($sendPasswordByTalk === 'true') {
 				if (!$this->appManager->isEnabledForUser('spreed')) {
-					throw new OCSForbiddenException($this->l->t('Sharing %s sending the password by Nextcloud Talk failed because Nextcloud Talk is not enabled', [$node->getPath()]));
+					throw new OCSForbiddenException($this->l->t('Sharing %s sending the password by xD Drive Talk failed because xD Drive Talk is not enabled', [$node->getPath()]));
 				}
 
 				$share->setSendPasswordByTalk(true);
@@ -1222,7 +1222,7 @@ class ShareAPIController extends OCSController {
 
 			if ($sendPasswordByTalk === 'true') {
 				if (!$this->appManager->isEnabledForUser('spreed')) {
-					throw new OCSForbiddenException($this->l->t('"Sending the password by Nextcloud Talk" for sharing a file or folder failed because Nextcloud Talk is not enabled.'));
+					throw new OCSForbiddenException($this->l->t('"Sending the password by xD Drive Talk" for sharing a file or folder failed because xD Drive Talk is not enabled.'));
 				}
 
 				$share->setSendPasswordByTalk(true);

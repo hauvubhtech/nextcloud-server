@@ -53,7 +53,7 @@ OC.L10N.register(
     "Host" : "Sirvidor",
     "Local" : "Llocal",
     "Location" : "Llocalización",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Raíz",
     "Share" : "Compartir",

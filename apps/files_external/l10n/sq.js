@@ -87,7 +87,7 @@ OC.L10N.register(
     "Secure ftps://" : "ftps:// e sigurt",
     "Local" : "Vendore",
     "Location" : "Vendndodhje",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Rrënjë",
     "SFTP with secret key login" : "SFTP me hyrje me kyç të fshehtë",

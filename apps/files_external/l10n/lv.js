@@ -59,7 +59,7 @@ OC.L10N.register(
     "Secure ftps://" : "Secure ftps://",
     "Local" : "Lokāls",
     "Location" : "Vieta",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Root",
     "SFTP with secret key login" : "SFTP pieteikšanās ar slepeno atslēgu",

@@ -28,7 +28,7 @@ OC.L10N.register(
     "Your Federated Cloud ID:" : "Federated Cloud ID Anda:",
     "Twitter" : "Twitter",
     "Add to your website" : "Tambahkan pada situs web Anda",
-    "Share with me via Nextcloud" : "Dibagikan pada saya via Nextcloud",
+    "Share with me via xD Drive" : "Dibagikan pada saya via xD Drive",
     "HTML Code:" : "Kode HTML:",
     "Copy" : "Salin",
     "Copied!" : "Tersalin!",

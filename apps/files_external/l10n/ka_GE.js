@@ -91,7 +91,7 @@ OC.L10N.register(
     "Secure ftps://" : "დაცული ftps://",
     "Local" : "ლოკალური",
     "Location" : "ადგილმდებარეობა",
-    "Nextcloud" : "Nextcloud-ი",
+    "xD Drive" : "xD Drive-ი",
     "SFTP" : "SFTP",
     "Root" : "Root",
     "SFTP with secret key login" : "SFTP საიდუმლო გასაღების ლოგინით",

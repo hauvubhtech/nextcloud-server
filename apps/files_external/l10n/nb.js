@@ -95,7 +95,7 @@ OC.L10N.register(
     "Secure ftps://" : "Sikker ftps://",
     "Local" : "Lokal",
     "Location" : "Sted",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Rot",
     "SFTP with secret key login" : "SFTP med hemmelig nøkkel for pålogging",

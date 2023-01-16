@@ -58,7 +58,7 @@ OC.L10N.register(
     "Secure ftps://" : "Secure ftps://",
     "Local" : "Local",
     "Location" : "Loco",
-    "Nextcloud" : "Nextcloud",
+    "xD Drive" : "xD Drive",
     "SFTP" : "SFTP",
     "Root" : "Root",
     "Share" : "Compartir",
