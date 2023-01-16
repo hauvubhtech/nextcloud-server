@@ -63,7 +63,7 @@
     "An error occurred." : "წარმოიშვა შეცდომა.",
     "Please reload the page." : "გთხოვთ გადატვირთოთ გვერდი.",
     "The update was unsuccessful. For more information <a href=\"{url}\">check our forum post</a> covering this issue." : "განახლებისას წარმოიშვა შეცდომა. მეტი ინფორმაციისთვის იხილეთ <a href=\"{url}\">ჩვენი ფორუმის პოსტი</a>, სადაც საუბარია ამ პრობლემაზე.",
-    "The update was unsuccessful. Please report this issue to the <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">Nextcloud community</a>." : "განახლებისას წარმოიშვა შეცდომა. გთხოვთ განაცხადოთ ამ პრობლემის შესახებ <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">Nextcloud საზოგადოებაში</a>.",
+    "The update was unsuccessful. Please report this issue to the <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">xD Drive community</a>." : "განახლებისას წარმოიშვა შეცდომა. გთხოვთ განაცხადოთ ამ პრობლემის შესახებ <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">xD Drive საზოგადოებაში</a>.",
     "More apps" : "მეტი აპლიკაცია",
     "Log in" : "შესვლა",
     "Logging in …" : "შესვლა ...",
