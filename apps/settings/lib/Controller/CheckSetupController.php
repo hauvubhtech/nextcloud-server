@@ -317,7 +317,7 @@ class CheckSetupController extends Controller {
 					'app' => 'settings',
 					'exception' => $e,
 				]);
-				return $this->l10n->t('Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://nextcloud.com. Please check the Nextcloud log file for more details.');
+				return $this->l10n->t('Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://nextcloud.com. Please check the xD Drive log file for more details.');
 			}
 		}
 
@@ -491,14 +491,14 @@ Raw output
 
 			// Check for saved comments only when OPcache is currently disabled. If it was enabled, opcache.save_comments=0 would break Nextcloud in the first place.
 			if (!$this->iniGetWrapper->getBool('opcache.save_comments')) {
-				$recommendations[] = $this->l10n->t('OPcache is configured to remove code comments. With OPcache enabled, <code>opcache.save_comments=1</code> must be set for Nextcloud to function.');
+				$recommendations[] = $this->l10n->t('OPcache is configured to remove code comments. With OPcache enabled, <code>opcache.save_comments=1</code> must be set for xD Drive to function.');
 			}
 
 			if (!$isPermitted) {
-				$recommendations[] = $this->l10n->t('Nextcloud is not allowed to use the OPcache API. With OPcache enabled, it is highly recommended to include all Nextcloud directories with <code>opcache.restrict_api</code> or unset this setting to disable OPcache API restrictions, to prevent errors during Nextcloud core or app upgrades.');
+				$recommendations[] = $this->l10n->t('xD Drive is not allowed to use the OPcache API. With OPcache enabled, it is highly recommended to include all xD Drive directories with <code>opcache.restrict_api</code> or unset this setting to disable OPcache API restrictions, to prevent errors during xD Drive core or app upgrades.');
 			}
 		} elseif (!$isPermitted) {
-			$recommendations[] = $this->l10n->t('Nextcloud is not allowed to use the OPcache API. It is highly recommended to include all Nextcloud directories with <code>opcache.restrict_api</code> or unset this setting to disable OPcache API restrictions, to prevent errors during Nextcloud core or app upgrades.');
+			$recommendations[] = $this->l10n->t('xD Drive is not allowed to use the OPcache API. It is highly recommended to include all xD Drive directories with <code>opcache.restrict_api</code> or unset this setting to disable OPcache API restrictions, to prevent errors during xD Drive core or app upgrades.');
 		} else {
 			// Check whether opcache_get_status has been explicitly disabled an in case skip usage based checks
 			$disabledFunctions = $this->iniGetWrapper->getString('disable_functions');
