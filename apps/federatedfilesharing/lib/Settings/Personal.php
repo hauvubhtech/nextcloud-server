@@ -67,8 +67,8 @@ class Personal implements ISettings {
 		$url = 'https://nextcloud.com/sharing#' . $cloudID;
 
 		$parameters = [
-			'message_with_URL' => $this->l->t('Share with me through my #Nextcloud Federated Cloud ID, see %s', [$url]),
-			'message_without_URL' => $this->l->t('Share with me through my #Nextcloud Federated Cloud ID', [$cloudID]),
+			'message_with_URL' => $this->l->t('Share with me through my #xD-Drive Federated Cloud ID, see %s', [$url]),
+			'message_without_URL' => $this->l->t('Share with me through my #xD-Drive Federated Cloud ID', [$cloudID]),
 			'logoPath' => $this->defaults->getLogo(),
 			'reference' => $url,
 			'cloudId' => $cloudID,

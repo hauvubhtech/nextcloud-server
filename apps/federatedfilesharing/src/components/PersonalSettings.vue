@@ -123,10 +123,10 @@ export default {
 	},
 	computed: {
 		messageWithURL() {
-			return t('federatedfilesharing', 'Share with me through my #Nextcloud Federated Cloud ID, see {url}', { url: this.reference })
+			return t('federatedfilesharing', 'Share with me through my #xD-Drive Federated Cloud ID, see {url}', { url: this.reference })
 		},
 		messageWithoutURL() {
-			return t('federatedfilesharing', 'Share with me through my #Nextcloud Federated Cloud ID')
+			return t('federatedfilesharing', 'Share with me through my #xD-Drive Federated Cloud ID')
 		},
 		shareDiasporaUrl() {
 			return `https://share.diasporafoundation.org/?title=${encodeURIComponent(this.messageWithoutURL)}&url=${encodeURIComponent(this.reference)}`
