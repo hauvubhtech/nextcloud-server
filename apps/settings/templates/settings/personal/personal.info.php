@@ -38,7 +38,7 @@ script('settings', [
 <?php if (!$_['isFairUseOfFreePushService']) : ?>
 	<div class="section">
 		<div class="warning">
-			<?php p($l->t('This community release of Nextcloud is unsupported and instant notifications are unavailable.')); ?>
+			<?php p($l->t('This community release of xD Drive is unsupported and instant notifications are unavailable.')); ?>
 		</div>
 	</div>
 <?php endif; ?>

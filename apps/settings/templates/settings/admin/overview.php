@@ -59,7 +59,7 @@
 	</p>
 
 	<p class="extra-top-margin">
-		<?php print_unescaped($l->t('Check the security of your Nextcloud over <a target="_blank" rel="noreferrer noopener" href="%s">our security scan ↗</a>.', ['https://scan.nextcloud.com']));?>
+		<?php print_unescaped($l->t('Check the security of your xD Drive over <a target="_blank" rel="noreferrer noopener" href="%s">our security scan ↗</a>.', ['https://scan.nextcloud.com']));?>
 	</p>
 
 </div>
@@ -68,7 +68,7 @@
 	<!-- should be the last part, so Updater can follow if enabled (it has no heading therefore). -->
 	<h2><?php p($l->t('Version'));?></h2>
 	<?php if ($theme->getTitle() === 'Nextcloud'): ?>
-	<p><strong><a href="<?php print_unescaped($theme->getBaseUrl()); ?>" rel="noreferrer noopener" target="_blank">Nextcloud Hub 3</a> (<?php p(OC_Util::getHumanVersion()) ?>)</strong></p>
+	<p><strong><a href="<?php print_unescaped($theme->getBaseUrl()); ?>" rel="noreferrer noopener" target="_blank">xD Drive Hub 3</a> (<?php p(OC_Util::getHumanVersion()) ?>)</strong></p>
 	<?php else: ?>
 	<p><strong><a href="<?php print_unescaped($theme->getBaseUrl()); ?>" rel="noreferrer noopener" target="_blank"><?php p($theme->getTitle()); ?></a> <?php p(OC_Util::getHumanVersion()) ?></strong></p>
 	<?php endif; ?>
