@@ -39,7 +39,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Tarkistusta #%s ei ole olemassa",
     "Check %s is invalid or does not exist" : "Tarkistus %s on virheellinen tai sitä ei ole olemassa",
     "Flow" : "Kulku",
-    "xD Drive workflow engine" : "xD Drivein työnkulkumoottori",
+    "xD Drive workflow engine" : "xD Drive työnkulkumoottori",
     "Select a file type" : "Valitse tiedostotyyppi",
     "Folder" : "Kansio",
     "Images" : "Kuvat",

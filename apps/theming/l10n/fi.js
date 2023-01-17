@@ -44,7 +44,7 @@ OC.L10N.register(
     "The default light appearance." : "Oletusarvoinen vaalea ulkoasu.",
     "Legal notice" : "Lainopillinen huomautus",
     "Privacy policy" : "Yksityisyyskäytäntö",
-    "Adjust the xD Drive theme" : "Mukauta xD Drivein teemaa",
+    "Adjust the xD Drive theme" : "Mukauta xD Drive teemaa",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Teeman avulla voit helposti kustomoida web-käyttöliittymän ja tuettujen sovelluksien ulkonäköä ja tuntumaa. Teema näkyy kaikille käyttäjille.",
     "Advanced options" : "Lisävalinnat",
     "Name" : "Nimi",

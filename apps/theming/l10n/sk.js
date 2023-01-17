@@ -43,7 +43,7 @@ OC.L10N.register(
     "The default light appearance." : "Predvolený svetlý motív",
     "Legal notice" : "Právne upozornenie",
     "Privacy policy" : "Zásady ochrany osobných údajov",
-    "Adjust the xD Drive theme" : "Upraviť motív vzhľadu xD Driveu",
+    "Adjust the xD Drive theme" : "Upraviť motív vzhľadu xD Drive",
     "Theming makes it possible to easily customize the look and feel of your instance and supported clients. This will be visible for all users." : "Zmena vzhľadu umožňuje ľahko upraviť pocit z vašej inštalácie a podporovaných klientov. Toto bude viditeľné pre všetkých klientov.",
     "Advanced options" : "Pokročilé možnosti",
     "Name" : "Názov",

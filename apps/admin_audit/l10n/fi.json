@@ -1,5 +1,5 @@
 { "translations": {
     "Auditing / Logging" : "Auditointi / lokitus",
-    "Provides logging abilities for xD Drive such as logging file accesses or otherwise sensitive actions." : "Tarjoaa xD Driveille lokin ylläpidon esimerkiksi tiedostojen käytöstä tai arkaluonteisista toiminnoista."
+    "Provides logging abilities for xD Drive such as logging file accesses or otherwise sensitive actions." : "Tarjoaa xD Drivele lokin ylläpidon esimerkiksi tiedostojen käytöstä tai arkaluonteisista toiminnoista."
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

@@ -9,7 +9,7 @@
     "Update for %1$s to version %2$s is available." : "Kohteen %1$s päivitys versioon %2$s on saatavilla.",
     "Update for {app} to version %s is available." : "Sovelluksen {app} päivitys versioon %s on saatavilla.",
     "Update notification" : "Päivitysilmoitus",
-    "Displays update notifications for xD Drive and provides the SSO for the updater." : "Näyttää xD Drivein päivitysilmoitukset ja tarjoaa SSO:n (Single Sign-On) päivittäjälle.",
+    "Displays update notifications for xD Drive and provides the SSO for the updater." : "Näyttää xD Drive päivitysilmoitukset ja tarjoaa SSO:n (Single Sign-On) päivittäjälle.",
     "Update" : "Päivitä",
     "The version you are running is not maintained anymore. Please make sure to update to a supported version as soon as possible." : "Käyttämäsi versio ei ole enää tuettu. Varmista, että päivität tuettuun versioon mahdollisimman pian.",
     "Apps missing compatible version" : "Sovellukset, joista ei ole yhteensopivaa versiota",
@@ -42,7 +42,7 @@
     "Beta" : "Beta",
     "A pre-release version only for testing new features, not for production environments." : "Esijulkaisuversio uusien toimintojen testaukseen, ei tuotantoympäristöille.",
     "_<strong>%n</strong> app has no compatible version for this xD Drive version available._::_<strong>%n</strong> apps have no compatible version for this xD Drive version available._" : ["<strong>%n</strong> sovelluksella on yhteensopiva versio saatavilla tälle xD Drive-versiolle.","<strong>%n</strong> sovelluksella on yhteensopiva versio saatavilla tälle xD Drive-versiolle."],
-    "<strong>All</strong> apps have a compatible version for this xD Drive version available" : "<strong>Kaikista</strong> sovelluksista on saatavilla yhteensopiva versio tämän xD Drivein version kanssa.",
+    "<strong>All</strong> apps have a compatible version for this xD Drive version available" : "<strong>Kaikista</strong> sovelluksista on saatavilla yhteensopiva versio tämän xD Drive version kanssa.",
     "_<strong>%n</strong> app has no compatible version for this xD Drive version available_::_<strong>%n</strong> apps have no compatible version for this xD Drive version available_" : ["<strong>%n:lle</strong> sovellukselle ei ole yhteensopivaa versiota tämän xD Drive-version kanssa","<strong>%n:lle</strong> sovellukselle ei ole yhteensopivaa versiota tämän xD Drive-version kanssa"]
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
