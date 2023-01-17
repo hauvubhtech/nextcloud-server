@@ -128,7 +128,7 @@ OC.L10N.register(
     "Storage type" : "儲存類型",
     "Scope" : "範圍",
     "Open documentation" : "開啟說明文件",
-    "External storage enables you to mount external storage services and devices as secondary xD Drive storage devices. You may also allow users to mount their own external storage services." : "外部存儲使您可以將外部存儲服務和設備掛載為次要的Nextcloud存儲設備。您還可以允許用戶安裝他們自己的外部存儲服務。",
+    "External storage enables you to mount external storage services and devices as secondary xD Drive storage devices. You may also allow users to mount their own external storage services." : "外部存儲使您可以將外部存儲服務和設備掛載為次要的xD Drive存儲設備。您還可以允許用戶安裝他們自己的外部存儲服務。",
     "Folder name" : "資料夾名稱",
     "Authentication" : "驗證",
     "Configuration" : "配置",

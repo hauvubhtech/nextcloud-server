@@ -48,7 +48,7 @@ OC.L10N.register(
     "Twitter" : "Twitter",
     "Diaspora" : "Diaspora",
     "Add to your website" : "Adja hozzá saját weboldalához",
-    "Share with me via xD Drive" : "Ossza meg velem a Nextcloudon keresztül",
+    "Share with me via xD Drive" : "Ossza meg velem a xD Driveon keresztül",
     "HTML Code:" : "HTML-kód:",
     "Share with me through my #xD-Drive Federated Cloud ID, see {url}" : "Ossza meg velem a #xD-Drive föderált felhőazonosítóm segítségével, lásd {url}",
     "Cloud ID copied to the clipboard" : "Felhőazonosító a vágólapra másolva",

@@ -39,7 +39,7 @@ OC.L10N.register(
     "Share it so your friends can share files with you:" : "친구들과 파일을 공유할 수 있도록 공유하십시오:",
     "Twitter" : "Twitter",
     "Add to your website" : "내 웹 사이트에 추가",
-    "Share with me via xD Drive" : "Nextcloud로 나와 공유하기",
+    "Share with me via xD Drive" : "xD Drive로 나와 공유하기",
     "HTML Code:" : "HTML 코드:",
     "Copy to clipboard" : "클립보드로 복사",
     "Copy" : "복사",

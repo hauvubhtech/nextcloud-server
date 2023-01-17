@@ -37,7 +37,7 @@
     "Could not connect to the App Store or no updates have been returned at all. Search manually for updates or make sure your server has access to the internet and can connect to the App Store." : "无法连接到应用商店或没有返回任何更新。手动搜索更新，或者确保你的服务器可以上网且可以连接到应用商店。",
     "View changelog" : "查看更新记录",
     "Enterprise" : "企业级",
-    "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once xD Drive GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the xD Drive Enterprise package." : "供企业使用。总是提供最新的补丁级别，但不会马上升级到下一个大版本。当Nextcloud GmbH为大规模和关键任务部署完成额外的加固和测试后，升级才会进行。此频道只对客户可用，提供Nextcloud企业级软件包。",
+    "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once xD Drive GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the xD Drive Enterprise package." : "供企业使用。总是提供最新的补丁级别，但不会马上升级到下一个大版本。当xD Drive GmbH为大规模和关键任务部署完成额外的加固和测试后，升级才会进行。此频道只对客户可用，提供xD Drive企业级软件包。",
     "Stable" : "稳定版",
     "The most recent stable version. It is suited for regular use and will always update to the latest major version." : "最新稳定版本。适合日常使用并总是更新至最新主版本。",
     "Beta" : "Beta测试版",
