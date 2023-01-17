@@ -27,6 +27,7 @@
 				:id="inputId"
 				ref="email"
 				type="email"
+				:readonly="true"
 				:placeholder="inputPlaceholder"
 				:value="email"
 				autocapitalize="none"

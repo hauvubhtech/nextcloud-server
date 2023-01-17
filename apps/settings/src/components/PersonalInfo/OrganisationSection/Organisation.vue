@@ -27,6 +27,7 @@
 			type="text"
 			:placeholder="t('settings', 'Your organisation')"
 			:value="organisation"
+			:readonly="true"
 			autocapitalize="none"
 			autocomplete="on"
 			autocorrect="off"

@@ -60,6 +60,7 @@ export default {
 
 	methods: {
 		async onEnableProfileChange(e) {
+			return false
 			const isEnabled = e.target.checked
 			this.$emit('update:profile-enabled', isEnabled)
 

@@ -25,6 +25,7 @@
 		<input
 			id="displayname"
 			type="text"
+			:readonly="true"
 			:placeholder="t('settings', 'Your full name')"
 			:value="displayName"
 			autocapitalize="none"

@@ -129,7 +129,7 @@ script('settings', [
 						</span>
 					</a>
 				</h3>
-				<input type="tel" id="phone" name="phone" value="<?php p($_['phone']) ?>" placeholder="<?php p($l->t('Your phone number')); ?>" autocomplete="on" autocapitalize="none" autocorrect="off" />
+				<input type="tel" id="phone" name="phone" readonly value="<?php p($_['phone']) ?>" placeholder="<?php p($l->t('Your phone number')); ?>" autocomplete="on" autocapitalize="none" autocorrect="off" />
 				<span class="icon-checkmark hidden"></span>
 				<span class="icon-error hidden"></span>
 				<input type="hidden" id="phonescope" value="<?php p($_['phoneScope']) ?>">
@@ -145,7 +145,7 @@ script('settings', [
 						</span>
 					</a>
 				</h3>
-				<input type="text" id="address" name="address" placeholder="<?php p($l->t('Your postal address')); ?>" value="<?php p($_['address']) ?>" autocomplete="on" autocapitalize="none" autocorrect="off" />
+				<input type="text" id="address" name="address" readonly placeholder="<?php p($l->t('Your postal address')); ?>" value="<?php p($_['address']) ?>" autocomplete="on" autocapitalize="none" autocorrect="off" />
 				<span class="icon-checkmark hidden"></span>
 				<span class="icon-error hidden"></span>
 				<input type="hidden" id="addressscope" value="<?php p($_['addressScope']) ?>">
