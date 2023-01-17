@@ -373,7 +373,7 @@
     "Couldn't remove app." : "לא ניתן להסיר את היישום.",
     "Couldn't update app." : "לא ניתן לעדכן את היישום.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "המנגנון אינו תומך בשינוי ססמה אך מפתח ההצפנה של המשתמש עודכן.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "לא ניתן לקבוע האם גרסת ה־TLS של cURL מיושנת או לא עקב שגיאה שהתרחשה במהלך בקשת ה־HTTPS מול https://drive.xd-twin.io נא לעיין בקובץ היומן של xD Drive לקבלת פרטים נוספים.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "לא ניתן לקבוע האם גרסת ה־TLS של cURL מיושנת או לא עקב שגיאה שהתרחשה במהלך בקשת ה־HTTPS מול https://drive.xd-twin.io נא לעיין בקובץ היומן של xD Drive לקבלת פרטים נוספים.",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "שלילת האסימון הזו עשויה למנוע את השמדת נתוני המכשיר שלך אם ההשמדה טרם החלה.",
     "Address" : "כתובת",
     "Avatar" : "תמונה מייצגת",

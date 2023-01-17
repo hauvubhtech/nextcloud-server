@@ -433,7 +433,7 @@
     "Couldn't remove app." : "Nije moguće ukloniti aplikaciju.",
     "Couldn't update app." : "Neuspješno ažuriranje aplikacije.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Pozadinski sustav ne podržava promjenu zaporke, ali je ažuriran korisnikov ključ za šifriranje.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Nismo mogli utvrditi je li inačica TLS-a cURL-a zastarjela jer je došlo do pogreške tijekom slanja HTTPS zahtjeva na https://drive.xd-twin.io Više informacija potražite u xD Driveovoj datoteci sa zapisima.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "Nismo mogli utvrditi je li inačica TLS-a cURL-a zastarjela jer je došlo do pogreške tijekom slanja HTTPS zahtjeva na https://drive.xd-twin.io Više informacija potražite u xD Driveovoj datoteci sa zapisima.",
     "Admin privileges" : "Administratorske ovlasti",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "Opozivanje ovog tokena može spriječiti brisanje sadržaja s vašeg uređaja ako brisanje nije pokrenuto.",
     "Unable to update biography" : "Nije moguće ažurirati biografiju",

@@ -435,7 +435,7 @@ OC.L10N.register(
     "Couldn't remove app." : "Programa ni mogoče odstraniti.",
     "Couldn't update app." : "Programa ni mogoče posodobiti.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Ozadnji program ne podpira spreminjanja gesla, je pa uspešno posodobljeno uporabniški šifrirni ključ.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Ni mogoče določiti, ali je različica TLS cURL zastarela ali ne, ker je do napake prišlo med izvajanjem zahteve HTTPS prek https://drive.xd-twin.io Za več podrobnosti si oglejte datoteko dnevnika nextcloud.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "Ni mogoče določiti, ali je različica TLS cURL zastarela ali ne, ker je do napake prišlo med izvajanjem zahteve HTTPS prek https://drive.xd-twin.io Za več podrobnosti si oglejte datoteko dnevnika nextcloud.",
     "Admin privileges" : "Dovoljenja skrbnika",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "Obnovitev tega žetona lahko prepreči varnostno brisanje naprave, če se to še ni začelo.",
     "Unable to update biography" : "Ni mogoče posodobiti biografije",

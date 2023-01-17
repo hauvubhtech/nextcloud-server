@@ -398,7 +398,7 @@
     "Couldn't remove app." : "Impossìbile a bogare s'aplicatzione.",
     "Couldn't update app." : "Impossìbile a agiornare s'aplicatzione.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Su motore non suportat su càmbiu de crae, ma sa crae de tzifradura de s'utente est agiornada.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Impossìbile a determinare si sa versione TLS de cURL est betza o nono, ca ddoe at àpidu un'errore durante sa dimanda HTTPS in https://drive.xd-twin.io Controlla s'archìviu de registru de nextcloud pro àteros detàllios.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "Impossìbile a determinare si sa versione TLS de cURL est betza o nono, ca ddoe at àpidu un'errore durante sa dimanda HTTPS in https://drive.xd-twin.io Controlla s'archìviu de registru de xD Drive pro àteros detàllios.",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "Sa rèvoca de custu token diat pòdere impedire sa cantzelladura de su dispositivu si no est cumintzada ancora.",
     "Address" : "Indiritzu",
     "Avatar" : "Avatar",

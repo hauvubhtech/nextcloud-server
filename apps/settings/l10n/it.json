@@ -462,7 +462,7 @@
     "Couldn't remove app." : "Impossibile rimuovere l'applicazione.",
     "Couldn't update app." : "Impossibile aggiornate l'applicazione.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Il motore non supporta la modifica della password, ma la chiave di cifratura dell'utente è stata aggiornata.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Impossibile determinare se la versione TLS di cURL è obsoleta o meno perché si è verificato un errore durante la richiesta HTTPS su https://drive.xd-twin.io Controlla il file di registro di nextcloud per maggiori dettagli.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "Impossibile determinare se la versione TLS di cURL è obsoleta o meno perché si è verificato un errore durante la richiesta HTTPS su https://drive.xd-twin.io Controlla il file di registro di xD Drive per maggiori dettagli.",
     "Admin privileges" : "Privilegi di admin",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "La revoca di questo token potrebbe impedire la cancellazione del tuo dispositivo se non ha ancora iniziato ancora la cancellazione.",
     "Unable to update biography" : "Impossibile aggiornare la biografia",

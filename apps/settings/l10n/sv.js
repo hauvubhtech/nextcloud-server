@@ -467,7 +467,7 @@ OC.L10N.register(
     "Couldn't remove app." : "Kunde inte ta bort applikationen.",
     "Couldn't update app." : "Kunde inte uppdatera appen.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Backend stödjer inte att lösenord ändras men användarens krypteringsnyckel uppdaterades.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Kunde inte bestämma om TLS-versionen av cURL är för gammal eller inte för ett fel uppstod under HTTPS-förfrågan mot https://drive.xd-twin.io Vänligen kontrollera nextcloud loggfilen för fler detaljer.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "Kunde inte bestämma om TLS-versionen av cURL är för gammal eller inte för ett fel uppstod under HTTPS-förfrågan mot https://drive.xd-twin.io Vänligen kontrollera xD Drive loggfilen för fler detaljer.",
     "Admin privileges" : "Adminprivilegier",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "Återkallning kan förhindra att enheten rensas om inte rensningen redan har startat.",
     "Unable to update biography" : "Kunde inte uppdatera biografi",

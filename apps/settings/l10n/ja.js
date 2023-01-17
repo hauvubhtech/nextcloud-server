@@ -509,7 +509,7 @@ OC.L10N.register(
     "Couldn't remove app." : "アプリが削除できませんでした。",
     "Couldn't update app." : "アプリをアップデートできませんでした。",
     "Backend doesn't support password change, but the user's encryption key was updated." : "バックエンドはパスワードの変更をサポートしていませんが、ユーザーの暗号化キーは正常に更新されました。",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "https://nextcloud.comに対するHTTPSリクエスト中にエラーが発生したため、cURLのTLSバージョンが古くなっているかどうかを判断できませんでした。詳細については、nextcloudログファイルを確認してください。",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "https://nextcloud.comに対するHTTPSリクエスト中にエラーが発生したため、cURLのTLSバージョンが古くなっているかどうかを判断できませんでした。詳細については、nextcloudログファイルを確認してください。",
     "The maximum number of OPcache keys is nearly exceeded. To assure that all scripts can be hold in cache, it is recommended to apply <code>opcache.max_accelerated_files</code> to your PHP configuration with a value higher than <code>%s</code>." : "OPcacheキーの最大数を間もなく超過します。全てのスクリプトをキャッシュに保管できるようにするには、<code>opcache.max_accelerated_files</code>の値を<code>%s</code>より多い値でPHP設定に適用することを推奨します。",
     "Admin privileges" : "管理者権限",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "ワイプが開始されていない場合、このトークンを無効にすると端末のワイプが無効になる可能性があります。",
