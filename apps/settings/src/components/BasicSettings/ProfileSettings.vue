@@ -32,6 +32,7 @@
 		</p>
 
 		<CheckboxRadioSwitch type="switch"
+			:disabled="true"
 			:checked.sync="initialProfileEnabledByDefault"
 			@update:checked="onProfileDefaultChange">
 			{{ t('settings', 'Enable') }}
