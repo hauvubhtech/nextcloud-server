@@ -447,7 +447,7 @@ OC.L10N.register(
     "Couldn't remove app." : "Αδυναμία αφαίρεσης εφαρμογής.",
     "Couldn't update app." : "Αδυναμία ενημέρωσης εφαρμογής",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Το σύστημα δεν υποστηρίζει αλλαγή κωδικού, αλλά το κλειδί κρυπτογράφησης του χρήστη ενημερώθηκε επιτυχώς.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://nextcloud.com. Please check the nextcloud log file for more details." : "Δεν ήταν δυνατό να προσδιοριστεί εάν η έκδοση TLS του cURL είναι ξεπερασμένη ή όχι επειδή προέκυψε σφάλμα κατά το αίτημα HTTPS έναντι του https://nextcloud.com. Ελέγξτε το αρχείο καταγραφής xD Drive για περισσότερες λεπτομέρειες.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Δεν ήταν δυνατό να προσδιοριστεί εάν η έκδοση TLS του cURL είναι ξεπερασμένη ή όχι επειδή προέκυψε σφάλμα κατά το αίτημα HTTPS έναντι του https://drive.xd-twin.io Ελέγξτε το αρχείο καταγραφής xD Drive για περισσότερες λεπτομέρειες.",
     "Admin privileges" : "Προνόμια διαχειριστή",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "Η κατάργηση αυτού του αναγνωριστικού ενδέχεται να αποτρέψει την εκκαθάριση της συσκευής σας αν δεν έχει ξεκινήσει ακόμα.",
     "Unable to update biography" : "Δεν είναι δυνατή η ενημέρωση του βιογραφικού",

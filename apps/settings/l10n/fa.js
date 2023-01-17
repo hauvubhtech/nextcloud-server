@@ -62,7 +62,7 @@ OC.L10N.register(
     "Backend does not support password change, but the user's encryption key was updated." : " سرور از تغییرات گذرواژه پشتیبانی نمی کند، اما کلید رمزگذاری کاربر به روز شد.",
     "Federated Cloud Sharing" : "اشتراک گذاری ابر فدرال",
     "cURL is using an outdated %1$s version (%2$s). Please update your operating system or features such as %3$s will not work reliably." : "cURL از نسخه (%2$s) منسوخ شده %1$s استفاده می کند. لطفا سیستم عامل خود را به روز کنید یا ویژگی هایی از قبیل %3$s قابل اعتماد کار نمی کنند.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://nextcloud.com. Please check the xD Drive log file for more details." : "نمی توان تعیین کرد که آیا نسخه TLS متعلق به cURL قدیمی است یا خیر. زیرا خطایی در طول درخواست HTTPS به https://nextcloud.com رخ داده است. لطفاً فایل گزارش نکست‌کلود را برای جزئیات بیشتر بررسی کنید.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the xD Drive log file for more details." : "نمی توان تعیین کرد که آیا نسخه TLS متعلق به cURL قدیمی است یا خیر. زیرا خطایی در طول درخواست HTTPS به https://drive.xd-twin.io رخ داده است. لطفاً فایل گزارش نکست‌کلود را برای جزئیات بیشتر بررسی کنید.",
     "Administrator documentation" : "مستندات مدیر",
     "User documentation" : "مستندات کاربر",
     "Invalid SMTP password." : "گذرواژه SMTP نامعتبر است.",

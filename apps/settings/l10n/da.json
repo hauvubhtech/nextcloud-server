@@ -454,7 +454,7 @@
     "Couldn't remove app." : "Kunne ikke fjerne app'en.",
     "Couldn't update app." : "Kunne ikke opdatere app'en.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Backend'en understøtter ikke skift af kodeord, men opdateringen af brugerens krypteringsnøgle blev gennemført.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://nextcloud.com. Please check the nextcloud log file for more details." : "Kunne ikke afgøre, om TLS-versionen af cURL er forældet eller ej, fordi der skete en fejl under HTTPS-anmodningen mod https://nextcloud.com. Tjek venligst nextcloud-logfilen for flere detaljer.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Kunne ikke afgøre, om TLS-versionen af cURL er forældet eller ej, fordi der skete en fejl under HTTPS-anmodningen mod https://drive.xd-twin.io Tjek venligst nextcloud-logfilen for flere detaljer.",
     "Admin privileges" : "Admin rettigheder",
     "Revoking this token might prevent the wiping of your device if it hasn't started the wipe yet." : "Tilbagekaldelse af dette token kan muligvis forhindre sletning af din enhed, hvis den ikke har startet sletningen endnu.",
     "Unable to update biography" : "Kan ikke opdatere biografien",

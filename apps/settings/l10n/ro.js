@@ -271,7 +271,7 @@ OC.L10N.register(
     "Couldn't remove app." : "Nu s-a putut înlătura aplicația.",
     "Couldn't update app." : "Aplicaţia nu s-a putut actualiza.",
     "Backend doesn't support password change, but the user's encryption key was updated." : "Backend-ul nu acceptă schimbarea parolei, dar cheia de criptare a utilizatorului a fost actualizată.",
-    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://nextcloud.com. Please check the nextcloud log file for more details." : "Nu s-a putut determina dacă versiunea TLS a cURL este depășită sau nu, deoarece s-a produs o eroare în timpul solicitării HTTPS la https://nextcloud.com. Vă rugăm să verificați fișierul jurnal nextcloud pentru mai multe detalii.",
+    "Could not determine if TLS version of cURL is outdated or not because an error happened during the HTTPS request against https://drive.xd-twin.io Please check the nextcloud log file for more details." : "Nu s-a putut determina dacă versiunea TLS a cURL este depășită sau nu, deoarece s-a produs o eroare în timpul solicitării HTTPS la https://drive.xd-twin.io Vă rugăm să verificați fișierul jurnal nextcloud pentru mai multe detalii.",
     "Admin privileges" : "Privilegii de administrator",
     "Address" : "Adresă",
     "Avatar" : "Avatar",
