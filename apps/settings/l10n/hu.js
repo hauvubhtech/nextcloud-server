@@ -343,7 +343,7 @@ OC.L10N.register(
     "Disable user" : "Felhasználó tiltása",
     "Enable user" : "Felhasználó engedélyezése",
     "Resend welcome email" : "Üdvözlő üzenet ismételt elküldése",
-    "In case of lost device or exiting the organization, this can remotely wipe the xD Drive data from all devices associated with {userid}. Only works if the devices are connected to the internet." : "Az eszköz elvesztése vagy a szervezetből való kilépés esetén ez távolról képes eltávolítani {userid} minden nextcloudos adatát a hozzá köthető eszközökről: {userid}. Csak akkor működik, ha az eszközök kapcsolódnak az internethez.",
+    "In case of lost device or exiting the organization, this can remotely wipe the xD Drive data from all devices associated with {userid}. Only works if the devices are connected to the internet." : "Az eszköz elvesztése vagy a szervezetből való kilépés esetén ez távolról képes eltávolítani {userid} minden xD Driveos adatát a hozzá köthető eszközökről: {userid}. Csak akkor működik, ha az eszközök kapcsolódnak az internethez.",
     "Remote wipe of devices" : "Eszközök távoli törlése",
     "Wipe {userid}'s devices" : "{userid} eszközeinek törlése",
     "Fully delete {userid}'s account including all their personal files, app data, etc." : "{userid} fiókjának teljes törlése, beleértve a személyes fájljait, alkalmazásadatait, stb.",
