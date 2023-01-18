@@ -26,6 +26,7 @@
 			id="enable-profile"
 			class="checkbox"
 			type="checkbox"
+			disabled="disabled"
 			:checked="profileEnabled"
 			@change="onEnableProfileChange">
 		<label for="enable-profile">
