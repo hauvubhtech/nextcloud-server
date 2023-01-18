@@ -25,9 +25,9 @@
 		<input
 			id="role"
 			type="text"
+			:readonly="true"
 			:placeholder="t('settings', 'Your role')"
 			:value="role"
-			:readonly="true"
 			autocapitalize="none"
 			autocomplete="on"
 			autocorrect="off"
