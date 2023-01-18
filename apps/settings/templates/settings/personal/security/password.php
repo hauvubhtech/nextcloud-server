@@ -47,12 +47,11 @@ if ($_['passwordChangeSupported']) {
 					<label for="pass2" class="hidden-visually"><?php p($l->t('New password'));?>: </label>
 					<input type="password" id="pass2" name="newpassword" readonly
 						   placeholder="<?php p($l->t('New password')); ?>"
-						   data-typetoggle="#personal-show"
 						   autocomplete="new-password" autocapitalize="none" autocorrect="off" />
 					<input type="checkbox" id="personal-show" class="hidden-visually" name="show" /><label for="personal-show" class="personal-show-label"></label>
 				</div>
 
-				<input id="passwordbutton" type="submit" value="<?php p($l->t('Change password')); ?>" />
+				<input id="passwordbutton" type="submit" disabled value="<?php p($l->t('Change password')); ?>" />
 
 			</form>
 	</div>
